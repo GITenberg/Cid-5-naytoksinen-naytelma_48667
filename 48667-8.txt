@@ -1,0 +1,3386 @@
+The Project Gutenberg EBook of Cid, by Pierre Corneille
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Cid
+       5-n‰ytˆksinen n‰ytelm‰
+
+Author: Pierre Corneille
+
+Translator: Eino Leino
+
+Release Date: April 8, 2015 [EBook #48667]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CID ***
+
+
+
+
+Produced by Juha Kiuru
+
+
+
+
+
+
+CID
+
+5-n‰ytˆksinen n‰ytelm‰
+
+
+Kirj.
+
+PIERRE CORNEILLE
+
+
+Suom. Eino Leino
+
+
+
+WSOY, Porvoo, 1917.
+
+
+
+
+
+
+    Suomalaisen Kirjallisuuden Edist‰misrahaston
+    avustuksella ilmestynyt. Kaikki esitt‰misoikeudet
+    pid‰tt‰‰ suomentaja.
+
+
+
+
+LUKIJALLE.
+
+
+Monet ja vaikeat teht‰v‰t on suomalainen k‰‰nnˆskirjallisuus jo
+ratkaissut, toiset ehk‰ yht‰ monet ja yht‰ vaikeat odottavat
+viel‰ ratkaisuaan. Mit‰ erikoisesti ranskalaisen klassillisen
+runouden suomenkielelle siirt‰miseen tulee, piilee sen vaikeus,
+paitsi yleens‰kin tuon runouden meille oudon, osaksi helleenisesti
+antikisoidun, osaksi nykyaikaista salonkityyli‰ l‰hentelev‰n
+sanonnan sek‰ ranskankielen oman muodollisen pirteyden, j‰rkeilyn ja
+vastasanakkeisuuden ohella, p‰‰asiallisesti siin‰ k‰ytetyn runomitan,
+aleksandrinin, sis‰isiss‰ ja ulkonaisissa mahdottomuuksissa taipua
+mink‰‰n muun kielen tai henkisen ymp‰ristˆn vaatimusten mukaiseksi.
+Niinp‰ ovatkin esim. saksalaiset k‰ytt‰neet sit‰ k‰‰nt‰ess‰‰n
+tavallista, loppusoinnutonta 5-jalkaista lyhytpitk‰‰ tai n.s.
+silos‰ett‰.
+
+Suomalaiseen k‰‰nnˆsrunouteen on t‰h‰n saakka tiet‰‰kseni kolmellakin
+eri tavalla koetettu aleksandrinia sovittaa. Ensimm‰inen tyyppi, jota
+toistaiseksi ei liene k‰ytetty mink‰‰n alkuper‰isesti ranskalaisen
+draaman suomentamiseen, on se meille germaanisen kosketuksen
+kautta siirtynyt, jolla esim. on suoritettu -- ja jolla myˆs itse
+viisitoista vuotta sitten suoritin -- _Regina von Emmeritzin_
+suomennoksen. Siin‰ on loppusoinnut, siin‰ on sesuuri, siin‰ on
+runojalkaluku sama kuin ranskankieless‰kin, joten se siis tarjoaa
+kyll‰kin monta etua suomentajalle. Mutta se rytmivaihtelun ja
+eloisuuden puute, joka on suoranainen seuraus suomalaisen runokielen
+germanisoituneesta tavasta yleens‰ k‰sitell‰ romaanisia runomittoja,
+tekee sen pitk‰ss‰, kokoillan n‰ytelm‰ss‰ k‰ytettyn‰ korvalle kovin
+kankeaksi ja tymp‰isev‰ksi. -- Toista tyyppi‰ onkin sen vuoksi O.
+Manninen koettanut MoliËren _Oppineiden naisten_ suomennoksessa,
+vaihtaen koko tuon juhlallisen, j‰ykk‰pukuisen aleksandrinin (joka
+ei suinkaan ole yht‰ juhlallinen ja j‰ykk‰ alkukieless‰‰n) keve‰ksi,
+hyp‰htelev‰ksi, nykyaikaista keskustelutyyli‰ l‰hentelev‰ksi
+anapestiksi. Mahdollisesti voikin se olla lopullinen ratkaisu
+klassillisen ranskalaisen huvin‰ytelm‰n suomenkielelle siirt‰miseen
+n‰hden. Mutta murhen‰ytelm‰‰n on se ehdottomasti liian levoton
+ja oikullinen. -- Kolmatta tyyppi‰ olen j‰lleen itse k‰ytt‰nyt,
+nimitt‰in Racinen _Phaidran_ suomennoksessa kymmenkunnan vuotta
+sitten. Se on muuten tavallinen jalkainen traagillinen silos‰e, mutta
+s‰‰nnˆllisill‰ loppusoinnuilla varustettu. Koska ne kuitenkin sangen
+suuressa m‰‰rin sitovat k‰‰nt‰j‰‰, joskin niiden avulla saa jonkun
+verran s‰ilytetyksi alkutekstin muodollista loisteliaisuutta, ja
+koska monta alkuper‰isen ranskalaisen s‰keen polveketta j‰‰ t‰ten,
+sen noin viidennell‰ osalla lyhentyess‰, pakostakin joko kokonaan
+k‰‰nt‰m‰tt‰ tai ainakin suomentajan mielivaltaisen yhteenvedon
+varaan, en ole sit‰k‰‰n ratkaisua asialle voinut pit‰‰ lopullisena.
+
+T‰ss‰ Corneillen _Cid_-k‰‰nnˆksess‰ olen koettanut uutta,
+siis nelj‰tt‰ tyyppi‰. S‰ilytt‰en loppusoinnut, alkuper‰isen
+runojalkaluvun ja itse lyhytpitk‰n runomitan pohjan sellaisenaan,
+olen vain, suurempaa vaihtelua ja notkeutta aikaansaadakseni,
+muuttanut sesuurin k‰yttelyn niin, ett‰ siit‰ on, s‰‰nnˆllisen
+ohella, muodostunut useampiakin eri rytmipatoutumia, kuten
+
+S‰‰nnˆllinen:
+
+Niinkuin h‰n verraton | on sotakunnoltansa --
+
+Ep‰s‰‰nnˆlliset:
+
+1) Elvira, kaikki onko | seikat kerrotut --
+
+2) H‰n hyv‰ksyiskˆ vaalini? | Mi syy on luulla --
+
+3) Mut niit' en seuraa, | kysymys on kunniasta --
+
+ynn‰ muiden lis‰ksi viel‰ 2-sesuuriset, joista taas on useampia eri
+alamuotoja.
+
+J‰tt‰en t‰m‰nkin ratkaisun lopullisuuden viel‰ kokonaan lukijan
+omasta korvasta ja vastaisten suomentajien saavutuksista riippuvaksi,
+tahdon vain lopuksi huomauttaa, ettei "Suomalaisen kirjallisuuden
+edist‰misrahaston" kaunokirjallinen osasto suinkaan ole sen
+suuremmasta tai v‰hemm‰st‰ tarkoituksenmukaisuudesta miss‰‰n
+esteettisess‰ edesvastuussa, sill‰ sen asettamat tarkastajat,
+tohtorit _Juhani Aho_ ja _A. V. Koskimies_ eiv‰t ole sit‰ hyv‰ksyneet
+eiv‰tk‰ hyl‰nneet, vaan ainoastaan lausuneet toivomuksenaan, ett‰
+selitt‰isin suomalaiselle yleisˆlle parilla sanalla t‰m‰n t‰rke‰n
+runo kielellisen kysymyksen nykyiset kehitysasteet.
+
+Toivon tuon kirjallisen velvollisuuden yll‰ t‰ytt‰neeni, mik‰li se
+t‰m‰ntapaisen lyhyen esipuheen puitteissa on mahdollista.
+
+Helsingiss‰ 4 p. hein‰k. 1916.
+
+Eino Leino.
+
+
+
+HENKIL÷T.
+
+DON FERNANDO, Kastilian ensimm‰inen kuningas.
+DONNA URRACCA, Kastilian prinsessa.
+DON DIEGO, Rodrigon is‰.
+DON GOMEZ, Gormaon kreivi, Chimenen is‰
+DON RODRIGO, Chimenen lemmitty.
+DON SANCHO, h‰nen kilpailijansa.
+DON ARIAS,   | kastilialaisia aatelismiehi‰.
+DON ALFONSO, |
+CHIMENE, Gomezin tyt‰r.
+LEONORA, prinsessan opettajatar.
+ELVIRA, Chimenen opettajatar.
+PRINSESSAN HOVIPOIKA.
+
+Tapahtuu Sevillassa.
+
+
+
+
+ENSIMMƒINEN NƒYT÷S.
+
+
+1:nen kohtaus.
+
+CHIMENE. ELVIRA.
+
+CHIMENE.
+Elvira, kaikki onko seikat kerrotut?
+Sanoista taattoni et mit‰‰n salannut?
+
+ELVIRA.
+Ne mun on hurmanneet. H‰n kovin kunnioittaa
+Rodrigoa, min lempi teit‰ haltioittaa,
+ja k‰skee, oikein jos ma luin sielustaan,
+ritarin rakkautehen teit‰ vastaamaan.
+
+CHIMENE.
+H‰n hyv‰ksyiskˆ vaalini? Mi syy on luulla
+sinulla niin, se suo mun viel‰ kerran kuulla,
+tuo julki taas, mit' tohdin tuosta toivoa,
+ei liian usein kuulla voi niin kaunista;
+luvata liikaa et voi lemmenliekillemme
+vapautta armost' ilmi tuoda tuntehemme
+H‰n salakosinnasta mit‰ tuosta sanoi,
+kun Sancho ja Rodrigo apuas sun anoi?
+Et liikaa julkituonut liene, kuinka noita
+ma eri silmin katson, suosin kosijoita?
+
+ELVIRA.
+En, tyyneks syd‰menne kuvasin; ei syt‰
+se toisen toivoa, ei toista s‰ik‰hyt‰,
+ja samoin kummaltakin s‰‰st‰in suosionsa
+is‰lt‰‰n valintaa vain vartoo puolisonsa.
+Tuo h‰lle mieleen oli. Tuosta ihastuin
+h‰n ilmi kohta toi sen elein ynn‰ suin,
+ja toistaa koska kaikki t‰ytyy loppuun asti,
+h‰n teist‰ ynn‰ heist‰ haastoi nopeasti:
+"Se oikein, h‰net ansaitsee he molemmat,
+ylh‰iset on he, uskolliset, urheat,
+myˆs nuoret, mutta n‰hd‰ silmist‰ns‰ voi
+es-is‰in kunnon, joka heit‰ aateloi.
+Kasvoissa ei Rodrigon ole varsinkaan
+piirrett‰, jok' ei viittais mieleen korkeaan,
+ja sukukuntaan, kuuluun sankar-kunniastaan,
+niin ett‰ varjonneet siell' laakerit on lastaan.
+Is‰ns‰ miehuus h‰nen voimanp‰ivin‰‰n
+ol' verraton, ol' ihme kaiken kansan t‰‰n;
+tyˆt urhon uurtaneet on kasvojensa juovat,
+mik' oli muinen h‰n, ne yh‰ ilmi tuovat.
+Pojasta uskon, mit‰ is‰st‰ns‰ n‰in;
+mua miellytt‰‰, jos miellytt‰‰ h‰n tyt‰rt‰in."
+Lˆi hetki, keskustelun juuri alkamansa
+h‰n katkas, kiirehti jo neuvoskuntahansa,
+v‰hist‰ sanoistaan tok' uskon, mielens‰
+ei paljon vaapu kosijainne v‰lill‰.
+Valita pojallensa t‰ytyy kuninkaan
+nyt kasvattaja; _h‰n_ kai p‰‰see kunniaan,
+tuo vaali varma lie, ja syyt‰ kauhistua
+vuoks urhoutensa myˆs ei mit‰‰n kilpailua.
+Niinkuin h‰n verraton on sotakunnoltansa,
+vaill' olkoon vertaistaan h‰n lemmentoivossansa!
+Rodrigon is‰, neuvostosta tullessaan,
+asian esitt‰v‰ eess' on kuninkaan;
+siis itse arvatkaa, h‰n eikˆ aikaa k‰yt‰
+ja aika eikˆ pian toivojanne t‰yt‰.
+
+CHIMENE.
+Ja sent‰‰n on, kuin empis ange sielu t‰‰
+iloa tuota, josta himme‰ks se j‰‰,
+vain hetki kohtalolle eri kasvot suo;
+t‰ss' onnessain, ma pelk‰‰n, hiipii murhe luo.
+
+ELVIRA.
+T‰‰ pelko pettyv‰ on onnellisesti.
+
+CHIMENE.
+Siis menn‰‰n, varrotaan, se kuinka p‰‰ttyvi.
+
+
+2:nen kohtaus.
+
+PRINSESSA. LEONORA. Hovipoika.
+
+PRINSESSA.
+K‰y, hovipoika, vie Chimenen kuulla sana,
+ett' t‰n‰‰n myˆh‰ liian h‰n on vierahana
+ja laiskuuttaan ett' yst‰vyytein vaikeroi.
+
+LEONORA.
+Prinsessa, teiss‰ aina sama toivo soi;
+ja joka p‰iv‰, kun te kanssaan haastelette,
+te lakkaa lempe‰ns‰ tutkimasta ette.
+
+PRINSESSA.
+En ilman syyt‰: miltei mielistym‰‰n niin
+sain h‰net h‰nt‰ hurmanneihin piirteisiin;
+Rodrigoa h‰n lempii, h‰net saa h‰n multa,
+Rodrigon lietsonut ma olen lemmen tulta,
+n‰in kahleet takonut oon n‰iden lempivien
+ja tuskat lopettaa ma tahdon molempien.
+
+LEONORA.
+Prinsessa, keskell' oman onnenne te hyv‰n
+kuitenkin ilmi tuotte sieluntuskan syv‰n.
+T‰‰ rakkaus, mi heid‰t heljin riemuin t‰ytt‰‰,
+surutko suuret jalon syd‰menne n‰ytt‰‰?
+Ja mielenkiinnosta, mi teill' on heit‰ kohtaan,
+te synkk‰ ootteko, kun heille onni hohtaa?
+Mut liian julkee lien jo liikaa haastaen.
+
+PRINSESSA.
+Suruni suurtuu vain, jos sit‰ salailen.
+Siis kuule vihdoin, kuink' on kamppaillut t‰‰ povi
+Mun hyveilleni rauha viel‰k‰‰n ei sovi.
+Ei s‰‰st‰ rakkaus t‰‰ hirmuvaltiainen.
+Se mies, min annan pois, tuo uljas nuorukainen,
+on mulle rakas.
+
+LEONORA.
+               Rakas?
+
+PRINSESSA.
+                     Paina povelleni
+k‰tesi, tunne, kuinka sykk‰‰ syd‰meni
+vain voittajallensa.
+
+LEONORA.
+                    Ah, anteeks, arvoanne
+jos loukkaan moittiessain tuota rakkauttanne.
+Niin itsens' unhottaako ruhtinatar vois,
+ritari halpa ett‰ h‰net kammitsois?
+Ois kuulla kuninkaan ja kansan jotain se!
+Te viel‰ muistatteko, ken on taattonne?
+
+PRINSESSA.
+Niin hyvin muistan, ett‰ veren annan ennen
+kuin kiell‰n arvoni ma alas siit‰ mennen.
+Ma voisin vastata, ett' ansioll' on vaan
+kauniissa sieluiss' oikeus lemmen lietsontaan;
+jos anteeks tunnettani pyyt‰‰ tahtoisin,
+ois siihen esikuvat mulla kuulutkin.
+Mut niit' en seuraa, kysymys on kunniasta;
+ei aistit yll‰tt‰‰ voi mielt‰in urhokasta,
+ja koska verta olen kuninkaallista,
+k‰dest‰in kuninkaat vain voivat kilpailla.
+Kun n‰in ma puolustaumaan heikoks syd‰mein,
+pois annoin, mit' en voinut ottaa omaksein.
+Sijaani kahlehdin Chimenen, lietsoin tulta
+myˆs heid‰n lempens‰, ett' oma sammuis multa.
+ƒl' ihmettele siis, jos sielu tuskissaan
+niin k‰rk‰s vartomaan on heid‰n liittoaan;
+nyt siit‰ riippuu rauhani. Jos lempi lie
+el‰v‰ toivosta, ne yhdess' surma vie;
+se tult' on, joka sytykkeett‰ sammuvi.
+Kovasta huolimatta kohtalostani
+jos saa Chimene miehekseen Rodrigon, j‰‰
+kuolleeksi toivoni, ja miel' on terve t‰‰.
+Mua painaa uskomaton sent‰‰n tuskan taakka.
+Rodrigoa ma lemmin noihin h‰ihin saakka;
+koen siit‰ p‰‰st‰, ja jos p‰‰sen siit‰, suren,
+salainen kasvaa tuosta mulle mielenmure.
+Tuskalla tunnen lemmen vankan valtikan
+mun saavan huokaamaan vuoks halveksittavan.
+Jakaunut kahtia on sieluni. Jos halaa
+jalosti uljuutein, t‰‰ povi sent‰‰n palaa.
+Ma pelk‰‰n, toivon tuota turman liittoa;
+iloa t‰ytt' ei voi se mulle tarjota,
+jos toteutuu tai ei, ma siit‰ kuolen: lempi
+ja kunnia kun kiist‰‰, kump' on mieluisempi?
+
+LEONORA.
+N‰in ollen virkkamista mull' ei muuta teille
+kuin antaa kanssanne vain valtaa kyyneleille.
+M‰ ‰sken moitin teit‰, s‰‰lin nyt. Mut tuiman
+kun tuskan kourissa, niin suloisen, niin huiman
+hyveenne taistelee sen valtaa vastaan, voittain
+sen hurmat, rynn‰kˆt ja siit‰ p‰‰st‰ koittain,
+valava on se rauhan syd‰menne yˆhˆn.
+Te siihen luottakaa ja ajan armotyˆhˆn
+ja Taivaan oikeuteen, mi suojaa vaille j‰t‰
+hyvett‰ ei, jot' ahdistaa niin pitk‰ h‰t‰.
+
+PRINSESSA.
+Ma toivon, ett‰ toivoa ei mulle n‰y.
+
+HOVIPOIKA.
+Chimene k‰skyst‰nne kohta t‰nne k‰y.
+
+PRINSESSA (Leonoralle.)
+H‰n saattakaa siis noihin sivuhuoneisiin.
+
+LEONORA.
+Halunne j‰‰d‰kˆ on t‰nne unelmiin?
+
+PRINSESSA.
+Ei, tahdon tuskastani huolimatta rauhan
+vain saada kasvoilleni kirkkahan ja lauhan.
+Ma tulen.
+
+
+3:s kohtaus.
+
+PRINSESSA (yksin.)
+
+          Taivas, jolta varron lohdutusta,
+jo p‰‰t‰, rajoita t‰‰ mielen murhe musta,
+mun turvaa rauhani, mun turvaa kunniain,
+ma toisen onnest' onneani etsin vain,
+t‰‰ liitto kolmelle on yht‰ t‰rke‰,
+siis sit‰ kiirehdi tai mielt‰in ter‰st‰!
+Avio, liitt‰v‰ nuo kaksi lempiv‰ist‰,
+mun p‰‰st‰‰ vaivastain ja kahlehista n‰ist‰.
+Mut liikaa viipynen, Chimenen k‰yn ma luo,
+t‰‰ kohtaus tuskalleni kevennyst‰ tuo.
+
+
+4:s kohtaus.
+
+KREIVI. DON DIEGO.
+
+KREIVI.
+Te voititte, ja suosio nyt kuninkaan
+siis teid‰t arvoon nostaa mulle kuuluvaan:
+Kastilian prinssin opettaja ootte nyt.
+
+DON DIEGO.
+Perheeni on h‰n kunnialla merkinnyt
+n‰in n‰ytt‰in mielt‰‰n oikeaa ja antain tiet‰‰,
+ett' entis-palvelukset aina palkan siet‰‰.
+
+KREIVI.
+Kuninkaat kuinka liekin suurivaltaiset,
+he erehty‰ voi kuin meid‰n kaltaiset;
+hoville kaikelle t‰‰ vaali todistaa:
+nykyiset palvelukset huonon palkan saa.
+
+DON DIEGO.
+J‰t‰mme vaalin, josta harmistutte jo,
+sen syy lie ollut suosio tai ansio.
+Kuningas tahtoo niin, ja vallan ehdottoman
+jo kunnioitus ep‰‰ arvostelun oman.
+Lis‰tk‰‰ kunniaa te tekem‰‰ns‰ yh‰,
+perheemme liitt‰kˆhˆn yhteen side pyh‰,
+teill' on vain tyt‰r yks, vain yksi poika mulla,
+me voimme enemm‰n kuin yst‰viksi tulla:
+niin tehk‰‰, h‰net v‰vyksenne ottakaa!
+
+KREIVI.
+Valita ylemp‰‰ h‰n puolisonsa saa;
+ja loisto arvonne t‰‰n uuden t‰ytt‰v‰
+on toisin houkutuksin varmaan mielens‰.
+Te tyˆnne tehk‰‰, prinssi‰ te opettakaa,
+h‰nehen istuttakaa vallan taito vakaa,
+maat, kansat kuinka lannistetaan alle lain
+hyvi‰ hellien, mut pahat kauhistain.
+Lis‰tk‰‰ avuihinsa myˆskin taistokunto,
+mi miehen karkaisee, ja karskin tuskan tunto,
+h‰n t‰ysin opastakaa sotatyˆhˆn t‰h‰n,
+yˆt p‰iv‰t satulassa kuinka vietet‰h‰n,
+aseissa maataan, muurit noustaan, voimin omin
+vain voitetaan ja tahdon tarmoin verrattomin.
+H‰nelle esimerkki tuo te n‰ytt‰k‰‰,
+ja mit‰ opetatte, tyˆss‰ t‰ytt‰k‰‰.
+
+DON DIEGO.
+Jos tahdon esimerkit ohjeisiini liitt‰‰,
+eloni tarinan h‰n lukekoon, se riitt‰‰.
+H‰n tuota tutkiva on urhotˆiden sarjaa
+ja siit‰ oppiva -- vaikk' kateet kuinka parjaa --
+maat vallitsemaan, linnat lyˆm‰‰n, kokoamaan
+armeijat, maineensa suurtˆille rakentamaan.
+
+KREIVI.
+Ei prinssi teht‰vi‰‰n opi kirjoista,
+el‰vin esimerkein on h‰n oppiva.
+Mit' teki suurta niin nuo vuodet pitk‰t, mit‰,
+ett' yksi p‰iv‰ni ei voittaa voisi sit‰?
+Olitte urhokas, ma _olen_. Tiet‰‰ Luoja,
+k‰svarsi t‰‰ on valtakunnan vankin suoja,
+Granadan, Arragonian kauhu on t‰‰ kalpa,
+nimeni kaiken on Kastilian lukko, salpa,
+mua ilman t‰‰ll‰ lait ois toiset vallanp‰‰ll‰,
+vihollisenne koht' ois kuninkaita t‰‰ll‰;
+jokainen p‰iv‰, hetki kunniaani sitoo
+ain uuden laakerin ja voiton voittoon nitoo.
+Uljuutta oppia k‰svarren turvin t‰‰n
+vois prinssi, syˆsten sodan, taiston myll‰kk‰‰n;
+mua n‰hden, voittajaa, h‰n oppis voittamaan
+ja varmaan vastaamaan myˆs suurta luonnettaan
+mua n‰hden...
+
+DON DIEGO.
+             Tied‰n, miekkanne ei huonoimpia
+niititte johdollani monta laakeria,
+ja ik‰ j‰ntereeni kun on j‰‰t‰nyt,
+sijani uljuutenne hyvin t‰ytt‰‰ nyt.
+Mut sanat turhat n‰‰ on parhaat s‰‰styvin‰:
+se nyt te olette, mik' olin ennen min‰.
+Huomaatte sent‰‰n k‰yden kanssain kilpateille,
+mieless‰ valtiaan on eri vaa'at meille.
+
+KREIVI.
+Sen saitte, mihin tyˆni minut ansioitti.
+
+DON DIEGO.
+Paremmin ansaitsi sen h‰n, ken teid‰t voitti.
+
+KREIVI.
+On toimeen arvokkain, ken paremmin sen t‰ytt‰‰.
+
+DON DIEGO.
+Tuon arvon parhaiten kai toimen saanti n‰ytt‰‰.
+
+KREIVI.
+Sen saitte kumartain, te vanha hovimies!
+
+DON DIEGO.
+Kuningas tˆist‰ni vain kuuluisista ties.
+
+KREIVI.
+Kuningas vuosianne kunnioitti vain.
+
+DON DIEGO.
+N‰in tehden mittasi h‰n niill‰ miehuuttain.
+
+KREIVI.
+N‰in tehden mulle ois h‰n tehnyt kunniaa.
+
+DON DIEGO.
+Ei kunniata ansaitse, ken sit' ei saa.
+
+KREIVI.
+Ei ansaitse? Ma enkˆ?
+
+DON DIEGO.
+                      Ette!
+
+KREIVI.
+                           Julkeutesi,
+h‰vytˆn vanhus, vaatii t‰m‰n palkaksesi.
+(Antaa h‰nelle korvapuustin.)
+
+DON DIEGO (miekkansa paljastaen.)
+Tyˆs t‰yt‰! Surmaa minut j‰lkeen herjan t‰‰n,
+ens herjan, joka heimoni saa h‰peem‰‰n!
+
+KREIVI.
+Mit' aiot, vanhus heikko?
+
+DON DIEGO.
+                          Voima voipuva,
+ah Luoja, j‰tt‰‰kˆ mun t‰ss‰ tarpeessa?
+
+KREIVI.
+Mun miekkas on! Mut ylpistyisit liikaakin,
+jos voitonmerkki‰ ma moista kantaisin.
+Hyv‰sti! Tutkikoon -- vaikk' kateet kuinka parjaa --
+sun johdollasi prinssi urhotˆittes sarjaa;
+t‰‰ esimerkki, kuinka kopeus rangaistaan,
+voi h‰lle viittana myˆs olla oikeaan.
+
+
+5:s kohtaus.
+
+DON DIEGO.
+Voi raivon toivottuutta! Voi sua vanhuus nurja!
+N‰in kauan elinkˆ vain ollaksein n‰in kurja?
+Tˆiss' urhon harmeninko vain ma n‰hd‰kseni,
+hetkess‰ kuinka kuihtui laaker-seppeleni?
+K‰s t‰‰, min voimaa kaikk' Espanja kunnioitti,
+mi valtakunnalle niin monet voitot voitti,
+mi usein kuninkaansa turvas istuimen,
+mua puolla ei, vaan herpoo, minut pett‰en!
+Ah, menneen mainehessa julma muisto t‰‰!
+Tuhanten p‰iv‰in tyˆtkˆ p‰iv‰ h‰vitt‰‰?
+Uus arvoniko n‰in on onnen kuilu mulle,
+syvyyden hauta kunniallein tahratulle?
+T‰ytyykˆ n‰hd‰ kreivi loistossansa t‰ss‰
+ja kuolla kostamatta taikka h‰pe‰ss‰?
+Nyt prinssin opettaja kreivi olkohon!
+Niin suureen arvoon kuulu ei mies maineeton;
+valinnut vaikka mun on kuningas, h‰n tautta
+kateuden tahrannut mun on t‰‰n herjan kautta.
+Pois miekka, sankartˆiden sorjin kanne, mutta
+koristus turha, koska vyˆt‰t uupunutta,
+pel‰tty muinoin, ‰sken t‰ss‰ herjassa
+paraatiin, vaan et puolustukseen kelpaava,
+pois, pois jo luota ihmiskunnan kurjimman,
+k‰y k‰siin parempiin, k‰y k‰teen kostajan!
+
+
+6:s kohtaus.
+
+DON DIEGO. DON RODRIGO.
+
+DON DIEGO.
+Rodrigo, pelk‰‰tkˆ?
+
+DON RODRIGO.
+                    Tuon kyll‰ opettaisin,
+jos is‰ ette ois.
+
+DON DIEGO.
+                  Ah, viha kaunokaisin!
+T‰‰n vaivan vastakaiku mulle suloinen!
+Vereni tunnen, koska kuohun kuulen sen;
+tuo hehku pikainen on hiilt‰ nuoruuteni.
+Rodrigo, poikani, ah, kosta loukkaukseni,
+mun eest‰in kosta!
+
+DON RODRIGO.
+                   Mit‰?
+
+DON DIEGO.
+                         Herjaa julmimpaa,
+mi tahraa kumpaisenkin meid‰n kunniaa.
+H‰n lˆi mua korvalle. H‰n tuosta kuollut ois,
+mut ik‰ ottanut on voiman multa pois;
+ja miekan, jot' ei t‰‰ k‰s en‰‰ kantaa jaksa,
+ma sulle annan, sill‰ taaton tahrat maksa!
+Miehuutes n‰yt‰ miest‰ uhkamielt‰ vastaan,
+t‰‰ herja huuhdotahan hurmeell' ainoastaan.
+Surmaa tai kuole! Etten mairittelis sua,
+saat taistella sa vastaan miest‰ karaistua.
+Veress‰, tomuss' oon ma h‰net n‰hnyt pauhuun
+armeijain syˆksyv‰n ja kaikki saavan kauhuun
+ja satain murtavan myˆs ratsasparvein muurin;
+h‰n, jota kuvailen n‰in sulle perinjuurin,
+sotilas uljas tuo, tuo p‰‰mies verraton...
+
+DON RODRIGO.
+Ma pyyd‰n, laatkaa! H‰n?
+
+DON DIEGO.
+                         Chimenen is‰ on.
+
+DON RODRIGO.
+Ah!
+
+DON DIEGO.
+    Tunnen lempes, vait! Mut kunniatta ken
+voi el‰‰, el‰m‰n ei ole arvoinen.
+Herjaajan rakkaan herja kipe‰mp' on vain.
+No niin, sun kosto on, sa tunnet herjaajain.
+En muuta virka. Kosta itsesi ja minut,
+osoita ansainnees, ma ett‰ siitin sinut!
+K‰yn kuormaa kohtaloini kovain itkem‰‰n.
+Sa rienn‰, joudu, juokse tyˆsi t‰yt‰nt‰‰n!
+
+
+7:s kohtaus.
+
+DON RODRIGO.
+        Tuo isku vartomaton
+ja kuolettava sattui poven pohjahan,
+ma, kurja kostaja t‰‰n riidan oikean
+ja v‰‰r‰ maalitaulu kovan kohtalon,
+j‰‰n j‰hmettyneheks, tuo isku sielun murhaa,
+        sen tiell‰ kaikk' on turhaa.
+Ah, Jumalain! Niin liki lemmen onnea!
+        T‰‰ murhe murtaa voi.
+Is‰ni herjattu on sek‰ herjaaja
+        Chimenen taatto, oi!
+
+        Sota k‰y l‰pi sieluni!
+Mua lempi lietsoo, vaarassa on kunniani:
+jos is‰n kostan, kadotan ma armahani.
+Syd‰nt‰in toinen sytt‰‰, toinen k‰tt‰ni.
+Valinta synkk‰: el‰‰ h‰pe‰ss‰ iki
+        tai pett‰‰ lempeniki.
+T‰‰ tuska kahtianne yht' on rajaton,
+        se mielen murtaa voi!
+H‰nt' enkˆ rankaise? Mut rangaistava on
+        Chimenen taatto, oi!
+
+        Is‰, lemmitty, lempi ja maine,
+ah, kovaa kamppailua valtain ylh‰isten!
+Katoopi turman kuiluun multa riemun laine
+tai kunniani p‰iv‰ p‰‰ttyy pilvehen.
+Sa rakas, julma toivo sielun empiv‰n,
+        mut sent‰‰n lempiv‰n,
+ah, miekka, surma mulla onnen suurimman!
+        Se t‰m‰n tuskan toi.
+Kostanko sill‰ siis ma taaton kunnian
+        Chimenen j‰tt‰in, oi?
+
+        On mieluummin kuoltava miehen!
+Sen armaallein kuin taatollein oon velkap‰‰.
+Jos kostan, vihaamaan mua armahani j‰‰,
+mua ylenkatsomaan, jos k‰y en koston tiehen.
+Kuin teenkin, teko toivojeni surma on
+        tai mies ma arvoton.
+Parantaa tahdon tuskaani, se yltyy vaan,
+        se sielun autioi.
+Kun sent‰‰n kuoltava mun on, k‰yn kuolemaan
+Chimenen s‰‰st‰in, oi!
+
+      Siis kuollako kostoa vailla?
+Surmaako etsi‰, mi kohtais maineettoman?
+Mun herjattaisko muistoain Espanjan mailla,
+kun varjellut en kunniaa ma heimon oman?
+T‰‰n lemmen t‰hdenkˆ, mi varmaan loppuvi,
+        nyt n‰‰n sen selv‰sti?
+Pois aatos alhainen, pois sulohaave, houra,
+        mi mielt‰ aatkeloi.
+Pelastan kunniani! Nouse, uljas koura,
+Chimenen j‰tt‰in, oi!
+
+        Oli harhaunut henkeni mun.
+Is‰llein kaikki velkaa oon, en lemmelleni.
+Jos sotaan sortunen tai tuskaan tuiretun,
+puhtaana kuin sen sainkin annan hurmeheni!
+Jo syyt‰n itse‰in, oon liikaa viipynyt,
+        jo koston tyˆhˆn nyt!
+H‰pe‰n horjuneeni! Tuska ankarin
+        mua turhaan vaivaa, oi!
+Is‰ni herjattu on! Kostan tahran, min
+        Chimenen taatto toi.
+
+
+
+
+TOINEN NƒYT÷S.
+
+
+1:nen kohtaus.
+
+DON ARIAS. KREIVI.
+
+KREIVI.
+N‰in meid‰n kesken myˆnn‰n, veri liian kuuma
+sanasta kuohahti, mun valtas ‰kkihuuma.
+Mut tehty tehty on, k‰y sit' en muuttamaan.
+
+DON ARIAS.
+Tuo ylpeys taipukohon tahtoon kuninkaan.
+Osaksi syyt' on h‰ll‰ siihen, vihansa
+on teit‰ koko voimallansa kohtaava.
+Ei teill‰ puolustusta, joka t‰ss‰ riitt‰‰;
+t‰ss' arvoon herjatun h‰n herjan m‰‰r‰n liitt‰‰
+ja yli korvauksen vaatii tavallisen
+alistumista teilt‰ anteeks-pyyt‰misen.
+
+KREIVI.
+Kuningas mielivalloin m‰‰r‰‰ hengest‰in.
+
+DON ARIAS.
+Erheenne j‰lkeen liikaa raivostutte n‰in.
+Kuningas pit‰‰ teist‰. Lausunut h‰n on:
+_Ma tahdon_. Totelkaa! Niin saatte sovinnon.
+
+KREIVI.
+Sen s‰ilymiseksi, mi mulle kallehinta,
+ei kovakorvaisuuskaan oisi kallis hinta.
+Kuin suur' h‰n olkoonkin, mun nyky-ansioni
+edest‰ v‰istyv‰ on rikos moinen moni.
+
+DON ARIAS.
+Teot tehk‰‰ kuuluimmat, tyˆt t‰rkit t‰ytt‰k‰‰,
+kuningas alamaiselleen ei velkaa j‰‰.
+Tied‰tte, kerskatenkin: hyvin valtiasta
+ken palvelee, h‰n tekee teht‰v‰‰ns‰ vasta.
+Tuo uhkamieli, kreivi, turmionne on.
+
+KREIVI.
+En usko, ennen kuin tuon koen kohtalon.
+
+DON ARIAS.
+Kuninkaan mahtavuutta tulee pel‰t‰.
+
+KREIVI.
+Mies minunlaiseni ei suistu p‰iv‰ss‰:
+H‰n kaiken valtansa mua vastaan kootkoon!
+Konsa mun maahan murskaa h‰n, h‰n murskaa valtionsa.
+
+DON ARIAS.
+Kuin? Niinkˆ heikko teist' on valta kruunup‰‰n.
+
+KREIVI.
+Mua ilman valtikka pian putois k‰dest‰‰n.
+Mies olen h‰lle liian kallis. Pudottaissaan
+t‰‰n p‰‰ni, kadottaa h‰n kaiken mahdin maissaan.
+
+DON ARIAS.
+Te kuulkaa neuvoani, te j‰rjen suokaa tulla
+itsenne ohjaajaks.
+
+KREIVI.
+                   On p‰‰tˆs valmis mulla.
+
+DON ARIAS.
+Mit‰ ma virkan siis? Ma mink‰ viestin saan?
+
+KREIVI.
+Ma etten h‰pe‰‰ni suostu milloinkaan.
+
+DON ARIAS.
+Tied‰tte: valtiain on tahto ehdoton.
+
+KREIVI.
+On arpa heitetty, t‰‰ puhe turhaa on.
+
+DON ARIAS.
+Hyv‰sti siis, kun taida taivuttaa en teit‰,
+mut myrsky voittojenne uhkaa seppeleit‰.
+
+KREIVI.
+Vakaana varron.
+
+DON ARIAS.
+                Ei se tulematta j‰‰.
+
+KREIVI.
+Se silloin Don Diegon maineen hyvitt‰‰!
+(Yksin.)
+Mies surmaa pelk‰‰v‰ vain uhkausta s‰ikkyy
+yl' onnen oikkujen mun mielein uljas v‰ikkyy,
+voin el‰‰ onnetonna, vaan mua pakottaa
+ei kukaan el‰m‰‰n voi ilman kunniaa.
+
+
+2:nen kohtaus.
+
+KREIVI. DON RODRIGO.
+
+DON RODRIGO.
+Kaks sanaa, kreivi!
+
+KREIVI.
+                    Puhu!
+
+DON RODRIGO.
+                         Varmuutt' tahdon vaan.
+Tunnetko Don Diegon?
+
+KREIVI.
+                     Tunnen.
+
+DON RODRIGO.
+                             Hiljaa haastellaan!
+Tied‰tkˆ, ett‰ vanhus tuo ol' aikansa
+hyve ja uljuus itse, itse kunnia?
+
+KREIVI.
+Kenties.
+
+DON RODRIGO.
+        T‰‰ hehku kuuma, silmiss‰in mi palaa,
+tied‰tkˆ, h‰nen vertaan on!
+
+KREIVI.
+                            En tiet‰‰ halaa.
+
+DON RODRIGO.
+Saat tiet‰‰ sen, t‰st' askelta jos nelj‰ k‰yt.
+
+KREIVI.
+Sa nuori kerskuri!
+
+DON RODRIGO.
+                   Sa kiivastuvan n‰yt.
+Nuor' olen, totta se; mut varro vuosien
+lukua urhokkuus ei suurisyntyisten.
+
+KREIVI.
+Mun kanssain kiistata! Tuo mist‰ julkeus miehen,
+min koskaan k‰yv‰n n‰hty viel' ei miekan tiehen?
+
+DON RODRIGO.
+Kahdesti kaltaiseni esitt‰ydy ei,
+ens iskut mestaruuteen meid‰t aina vei.
+
+KREIVI.
+Ken olen, tied‰tkˆ?
+
+DON RODRIGO.
+                    Sen tied‰n: nimes vaan
+jokaisen muun kuin mun sais kauhuun kaiullaan,
+otsalles kirjoitetun n‰ytt‰‰ laakerein,
+tuleva ett' on miekkas minun turmaksein.
+Ma uhmaan uhkamielin k‰tt‰ voittoisaa;
+mut kyllin uljas aina kyllin voimaa saa.
+Ken kostaa is‰‰ns‰, h‰n mahtaa mahdotonta;
+et ole voittamaton, vaikka voitit monta.
+
+KREIVI.
+Tuo uljuus, jota j‰lleen sanas tuossa toisti,
+minulle silmist‰s jo joka p‰iv‰ loisti,
+Kastilian kunniaksi sinut katsoin, armaan
+sinulle tytt‰reni suonut oisin varmaan.
+Sun lempes tied‰n, n‰en riemuin miehen mielt‰,
+mi haaveet haihduttaa pois velvoituksen tielt‰,
+niist' ettei heikennyt oo hehku sielus jalon:
+n‰en kunnioituksella hyvees suuren palon.
+Siis vaali vienyt t‰‰ ei vaaraan pettymisen,
+ritarin v‰vyksein kun tahdoin t‰ydellisen.
+Sua tunnen s‰‰liv‰ni. Tuimaa suoruuttas
+ihaillen surkuttelen sent‰‰n nuoruuttas.
+ƒI' etsi turhaan t‰t‰ turman seikkailua!
+Taistosta s‰‰st‰ ep‰tasaisesta mua,
+minulle kunniaa ei moinen voitto tois,
+miss' sota vaaraton, myˆs maine pieni ois.
+Helposti voitetuks sun kaikki luulis, min‰
+vain surra saisin siit‰, ett‰ kuolit sin‰.
+
+DON RODRIGO.
+Uljuuttas halventava seuraa s‰‰li! Kiist‰‰
+mult' tohdit kunnian! Et el‰m‰‰kˆ riist‰‰?
+
+KREIVI.
+Pois k‰y!
+
+DON RODRIGO.
+          Pois vaiti k‰ymme.
+
+KREIVI.
+                             Niinkˆ halpa on
+elosi?
+
+DON RODRIGO.
+       Niinkˆ pelk‰‰t k‰yd‰ kuolohon?
+
+KREIVI.
+Siis teht‰v‰si tee! On poika kehno h‰n,
+ken el‰‰ jaksaa j‰lkeen taaton h‰pe‰n.
+
+
+3:s kohtaus.
+
+PRINSESSA. CHIMENE. LEONORA.
+
+PRINSESSA.
+Hillitse tuskasi t‰‰n turman iskun alla!
+Vakaana voita se, Chimene, talttumalla!
+T‰‰ myrsky heikko pian rauhaks varmaan vaihtuu,
+sun onnes pieni peitti pilvi vain, mi haihtuu,
+kadota mit‰‰n et, vain aikaa.
+
+CHIMENE.
+                              Syd‰meni
+synkiksi k‰‰nt‰‰ kaikki onnentoiveheni.
+Niin nopsa tuulisp‰‰ kun iskee tyynehen,
+se uhka haaksirikon ain on tuhoisen;
+ma hukun valkamaan. Ma miest‰ rakastin,
+mua h‰n, ja sovussa tuon tiesi taatotkin,
+siit' ensi kerran teille kerroin hetkell‰
+tuon turman kiistan, koska rikkui v‰lins‰;
+mut viestin vinhan tielt‰, joka teille tuli,
+suloinen varrontani kohta suruun suli.
+Kirottu hulluus, kurjat lait te kunnian,
+ies, joiden julmuus orjuuttaa siis jaloimman!
+Kaikk' kalliit toiveheni s‰‰lim‰tt‰ lyˆtte
+ja itkunnyyhkyyn onnen ihanimman myˆtte!
+
+PRINSESSA.
+Sun syyt‰ s‰ikky‰ ei kiistaa tuota. Hetki
+sen siitti, sama sovittaa taas kumpaisetki.
+Melua nostanut se liian suurta on;
+kuningas itse heille solmii sovinnon.
+Sa tied‰t, sieluni, sun tuskaas surren, t‰t‰
+pois pyyhki‰kseen mit‰‰n koettamatt' ei j‰t‰.
+
+CHIMENE.
+V‰litys auta t‰ss‰ ei. Niin tappavaa
+ei tekem‰ttˆm‰ksi loukkausta saa.
+On turhaa t‰ss‰ viisaus ja voima. Pahan
+jos parantaa, sen saa vain itsens' salaamahan,
+syd‰nten noiden viha painuu pohjahan
+ja siell‰ sytytt‰‰ vain tulen tuimemman.
+
+PRINSESSA.
+Rodrigon ja Chimenen pyh‰ liitto varmaan
+isien syd‰miin on sovun saapa armaan,
+pian rakkautenne onni, heit‰ vankempi,
+tuon riidan asettaa ja vihan viiht‰vi.
+
+CHIMENE.
+Sit' toivon, vaikk' en usko. Liian korskea
+Diego on, ja taattoni taas tunnen ma.
+Siks itkuani turhaan est‰n. Tuskaa uutta
+vain tuopi entisyys, ja pelk‰‰n vastaisuutta.
+
+PRINSESSA.
+Vihaako voimatonta pelk‰‰t harmaap‰‰n?
+
+CHIMENE.
+Rodrigo uljas on.
+
+PRINSESSA.
+                  Mut nuori i‰lt‰‰n.
+
+CHIMENE.
+Ens iskussaan jo urhokas on itsens‰.
+
+PRINSESSA.
+Sun h‰nt' ei liikaa silti tule pel‰t‰;
+vuoks lempens' ei h‰n tahdo n‰hd‰ tuskiasi,
+vihansa sammuttaa kaks sanaa huuliltasi.
+
+CHIMENE.
+Mut mik‰ tuska, jos h‰n ei mua totteleisi!
+Ja jos h‰n totteleis, maa kuinka mainitseisi
+ritaria, mi siet‰‰ moisen herjansa!
+H‰n lemmelleni luja lie tai horjuva,
+h‰vet‰ voin ma vain tai surra kieltoaan
+tuot' oikeaa tai liikaa kunnioitustaan.
+
+PRINSESSA.
+Ylev‰ on Chimene: oman voiton vuoksi
+alhaista aatost' ei h‰n silti p‰‰st‰ luoksi.
+Mut jospa p‰iv‰‰n saakka suuren sopimisen
+tuon sulhon vangita ma voisin t‰ydellisen,
+n‰in est‰in, ettei uljuuttaan h‰n ilmi n‰ytt‰is,
+se surunpilvin ehk‰ lempes taivaan t‰ytt‰is?
+
+CHIMENE.
+Ei en‰‰! Tuo jo huoli tainnut mult' on laata.
+
+
+4:s kohtaus.
+
+PRINSESSA. CHIMENE. LEONORA. Hovipoika.
+
+PRINSESSA.
+Rodrigo etsi, h‰net heti t‰nne saata!
+
+HOVIPOIKA.
+H‰n ja Gormaon kreivi...
+
+CHIMENE.
+                         Ah, t‰‰ pelko rinnan!
+
+PRINSESSA.
+Sa puhu!
+
+HOVIPOIKA.
+        J‰tt‰neet he yhdess' ovat linnan.
+
+CHIMENE.
+He kaksin?
+
+HOVIPOIKA.
+           Kaksin, mutta hiljaa riidellen.
+
+CHIMENE.
+He varmaan taistelee jo! Tied‰n, tunnen sen.
+Prinsessa, anteeksi, ma ett‰ rienn‰n...
+
+
+5:s kohtaus.
+
+PRINSESSA. LEONORA.
+
+PRINSESSA.
+                                        Voi,
+mi tuska mieleeni t‰‰n rauhattuuden toi!
+Sen huolta itken, jonk' on sulho mulle kallis;
+taas her‰‰ rakkaus, en her‰t‰ sen sallis!
+Mik' erottaa Rodrigon ja Chimenen, mulle
+taas l‰hde toivon on ja tuskan, tuiretulle,
+ja juopa itkem‰ni, jonka tahdon peitt‰‰,
+salaisen sieluhuni riemun, hurman heitt‰‰.
+
+LEONORA.
+Se hyve korkea, mi syd‰menne salpaa,
+n‰in nopsaan pakeneeko lempe‰nne halpaa?
+
+PRINSESSA.
+Sit' ‰l‰ halvaks sano, koska rinnassain
+ylv‰‰n‰, voitokkaana nyt se laatii lain,
+sa sit‰ kunnioita, mulle kalleinta.
+Hyveeni uhalla ma tohdin toivoa;
+niin hullun toivon t‰hden syd‰n heikko t‰‰
+Chimenen kadottaman sulhon vangiks j‰‰.
+
+LEONORA.
+Katoovan sallitte siis uljuutenne jalon,
+samalla sammuvan myˆs j‰rjen ylv‰‰n valon?
+
+PRINSESSA.
+Ah, kuinka j‰rjen ‰‰ni v‰h‰n vaikuttaa,
+kun mielt‰ suloinen niin myrkky tenhoaa!
+Ja mik' on tuska tulla silloin terveheksi,
+kun sairas tautiansa rakkaampaa ei keksi!
+
+LEONORA.
+Toiveenne viettelee, on armas tautinne,
+mut muistakaa, Rodrigo teit' ei ansaitse.
+
+PRINSESSA.
+Sen hyvin tied‰n; mut jos hyve j‰tt‰‰ mun,
+sa kuule, kuinka lempi kiehtoo hurmatun.
+Rodrigo taistostaan jos palaa voittajana,
+suur' urho tuo jos h‰nt‰ siis on alempana,
+voin h‰nt‰ h‰pe‰tt‰ silloin rakastaa.
+Ken kreivin voittaa, uhmata voi maailmaa.
+Voin kuvitella, koko valtakunnatkin
+h‰n voittava on sankartˆin ja pienemmin,
+t‰‰n lemmen imarteessa n‰en istuvan
+jo h‰net herrana Granadan valtikan:
+ihailee, pelk‰‰ h‰nt‰ lyˆdyt maurit, uutta
+Arragonia voittajalta vartoo mahtavuutta,
+antautuu Portugal, ja taa on merten laineen
+tuon soipa kaiku kauniin pyytehen ja maineen,
+afrikalaisten verin laakerinsa kastuu,
+kuin taru taistelijani kuuluisain h‰n astuu,
+sit' toivon h‰nest‰ ma j‰lkeen voiton t‰‰n,
+luon oman maineheni h‰nen lemmest‰‰n.
+
+LEONORA.
+Mut n‰hk‰‰, minne h‰net tempaatte te mukaan
+jo vuoksi taiston, jok' ei ehk‰ tapahdukaan.
+
+PRINSESSA.
+Rodrigo herjattu ja kreivi herjaaja!
+Yhdess‰ poistuneet: siell' eikˆ taistella?
+
+LEONORA.
+No niin, he taistelee, kun niin te tahdotte!
+Mut k‰y Rodrigo ei niin pitk‰lle kuin te.
+
+PRINSESSA.
+Mit' tahdot? Hullu oon, mun hourii syd‰meni,
+n‰‰t siit‰ tuskan, mink‰ tuo t‰‰ rakkauteni.
+K‰y kammiooni huojentamaan huoliain,
+mua ‰llˆs yksin heit‰ t‰ss‰ vaivassain!
+
+
+6:s kohtaus.
+
+DON FERNANDO. DON ARIAS. DON SANCHO.
+
+DON FERNANDO.
+Niin houkka, turha onko mieli kreivin tuon?
+Toivooko h‰n viel', ett‰ syyns‰ anteeks suon?
+
+DON ARIAS.
+H‰nelle kauan nimess‰nne haastoin, tein
+ma kaikkeni, mut oli turha tuloksein.
+
+DON FERNANDO.
+Kautt' taivaan! Alamainen n‰inkˆ v‰litt‰‰
+siis v‰h‰n, mit‰ tahtoo, mielii kruunup‰‰?
+Mua halveksii h‰n, herjaa Don Diegoa!
+Hovini keskell' laatii mulle lakeja!
+Suur' olkoon p‰‰llikkˆ, suur' olkoon sankari,
+t‰‰ koura korskamielen maahan iskevi;
+Mars itse vaikka h‰n ja itse uljuus oisi,
+jos tuntis voimani, niin ei h‰n niskuroisi.
+Mut kun niin tahtoo h‰n, h‰n talteen ottakaa,
+jos vastustaa tai ei. T‰‰ rikos palkan saa.
+
+DON SANCHO.
+Ehk' aika taivuttaa t‰‰n ylpeytens‰ tuhman.
+H‰n ‰sken vallass' oli viel‰ kiistan uhman.
+Sire, ensi tuokion ei kuumuudessa povi
+niin uljas ehdontahdoin riitojansa sovi;
+h‰n n‰kee v‰‰ryytens‰, mutta mielell‰‰n
+niin pian tunnusta ei ylv‰s erhett‰‰n.
+
+DON FERNANDO.
+Don Sancho, vaietkaa ja tietk‰‰: h‰nt‰ ken
+mun eess‰in puolustaa, on itse syyllinen.
+
+DON SANCHO.
+Vait olen, tottelen. Mut viel‰ puoltaa voisi
+yks sana h‰nt‰, Sire...
+
+DON FERNANDO.
+                        Ja sana tuo mik' oisi?
+
+DON SANCHO.
+Se, ettei sielu, tuttu sankartˆiden vaan,
+kuin muut voi alistua, pyyt‰‰ polvillaan;
+sovinnon luulee h‰n vain tuovan h‰pe‰‰.
+Tuo sana ainut mielt‰ kreivin pel‰tt‰‰;
+h‰nest‰ teht‰v‰ns‰ helpomp' olla vois,
+h‰n teit‰ totteleis, jos niin ei uljas ois.
+Aseilla, k‰skek‰‰, k‰svarsi taiston tuttu
+t‰‰n riidan ratkaiskoon, ja siihen loppuu juttu!
+H‰n suostuu, Sire. Mut siks, kuin h‰n sen tiet‰‰, vakaan,
+tulkoon ken tulleekin, ma hyvityksen takaan.
+
+DON FERNANDO.
+Puhutte liian suoraan; mutta vuosienne
+vuoks antaa anteeks voin ma nuoren rohkeutenne.
+Kuningas viisas kaipaa sankareita maan
+ja verta alamaisten tyˆhˆn parempaan;
+kuin p‰‰, mi j‰seni‰ avuksensa huoltaa,
+ma hoidan, s‰‰st‰n niit‰, mua jotka puoltaa.
+Siks mulle oikein ei, mi teille: sotilaana
+puhutte, toimia mun t‰ytyy kuninkaana.
+Mut mit‰ virkkaakin, h‰n luulkoon mit‰ luulee,
+ei haihdu kunniansa, mua jos h‰n kuulee.
+Muakin loukkasi h‰n, miest‰ loukaten,
+min prinssin kasvattajaks juuri valitsen;
+mua herjaa itse‰in, mi herjaa vaaliani,
+se uhmaa ehdotonta voimaa valtikkani.
+Ei siit‰ en‰‰. Muuten, vanhan vainoojamme
+purjetta kymmenen on n‰hty rannoillamme;
+he tulla tohtineet on virran suulle ihan.
+
+DON ARIAS.
+Jo maurit oppineet on valtiaamme vihan:
+niin usein voitettuina tuskin uskaltaa
+he en‰‰ uhmata niin suurta voittajaa.
+
+DON FERNANDO.
+Ett' Andalusiaa ma heid‰n uhallaan
+hallitsen, anteeks anna ei he milloinkaan;
+maa kaunis t‰‰, mi kauan kuulunut on heille,
+kateutta synnytt‰‰, on vaaran aihe meille.
+Vuoskymmen sitten siks Sevillaan siirsin ma
+Kastilian valtaistuimen jo ajoissa,
+l‰hemp‰‰ ett‰ t‰‰lt‰ sotaa johtaen
+tuhota aikehensa voisin jokaisen.
+
+DON ARIAS.
+P‰ittens‰ kallehimpain hukka kertoo heille,
+t‰‰ll'-olostanne mik' on turva maitten teille:
+ei syyt‰ pelkoon.
+
+DON FERNANDO.
+                  Eik‰ varomattomuuteen.
+Vie usko liian varma aina vaaraan uuteen.
+Tied‰tte: nousuvesi yksi laivat nuo
+helposti t‰nne saakka ulapalta tuo.
+Mut turhaan kauhistusta kylv‰n syd‰miin,
+kun ep‰tietoinen tuo viel' on viesti niin;
+h‰lyytys hyˆdytˆn t‰‰ kaupunkimme elon
+vain h‰iritseis ja yˆss‰ turhan nostais pelon.
+Lis‰tk‰‰ sataman ja muurein vartiosto!
+Se illaks riitt‰‰.
+
+
+7:s kohtaus.
+
+DON FERNANDO. DON ALFONSO. DON SANCHO. DON ARIAS.
+
+DON ALFONSO.
+                   Sire, jo kreivin kohtas kosto.
+Kaas h‰net Don Diegon pojan miekka huima.
+
+DON FERNANDO.
+Kun herjan kuulin, tiesin, ett' ois kosto tuima,
+mut turhin yrityksin turmaa tuota torjuin.
+
+DON ALFONSO.
+Chimene jalkojenne juureen itkein, horjuin
+tuo tuskansa ja teilt‰ pyyt‰‰ oikeutta.
+
+DON FERNANDO.
+Ma h‰nen suruihinsa otan osaa, mutta
+minusta kreivi ansainnut on rangaistuksen
+t‰‰n oikean vuoks sinkoomansa loukkauksen.
+Kuitenkin, kuinka oikea lie kuolo t‰‰,
+mua suuren p‰‰llikkˆni surma s‰‰litt‰‰!
+H‰n vaivat valtioni raskaat usein kantoi,
+verens‰ eest‰ni h‰n tuhat kertaa antoi;
+vuoks uhmansa mit' tunsinkin, mua murhettaa
+tuon miehen hukka, josta heikentyvi maa.
+
+
+8:s kohtaus.
+
+DON FERNANDO. DON DIEGO. CHIMENE.
+DON SANCHO. DON ARIAS. DON ALFONSO.
+
+CHIMENE.
+Sire, oikeutta!
+
+DON DIEGO.
+                Sire, mua kuulkaa!
+
+CHIMENE.
+                                  Syˆksyn juureen
+jalkainne!
+
+DON DIEGO.
+           Suruhuni katsokaatte suureen!
+
+CHIMENE.
+Oikeutta anon.
+
+DON DIEGO.
+               Kuulkaa sana puolustuksen!
+
+CHIMENE.
+Rangaiskaa rˆyhkeytt‰ nuoren hurjimuksen!
+H‰n voiman murskasi, mi valtakuntaa nosti,
+h‰n tappoi taattoni.
+
+DON DIEGO.
+                     H‰n taattons' oman kosti.
+
+CHIMENE.
+Teilt' oikeutta vaatii alamaisten veri.
+
+DON DIEGO.
+Ken oikein kosti, h‰nt‰ rangaistus ei peri.
+
+DON FERNANDO.
+Molemmat nouskaa! Tyynesti nyt haastakaa!
+Chimene, tuskanne mua tuiki murhettaa;
+syv‰sti syd‰meni samaa huolta huokaa.
+(Don Diegolle.)
+Te sitten! H‰nen ensin rauhass' surra suokaa.
+
+CHIMENE.
+Is‰ni kuollut! Sire, ah n‰hnyt virtanaan
+hurmeensa vuotavan oon urhorinnastaan,
+tuon hurmehen, mi usein taistot voitti teille,
+takasi muurinne ja maamme turvas meille,
+tuo hurme tuores huohti viel‰i vihaa seest‰,
+kun muiden vuoksi vuos, ei kuninkaansa eest‰;
+min vaarain keskell' oli sota s‰‰st‰nyt,
+Rodrigo vuodatti sen hovissanne nyt.
+Paikalle riensin voimatonna, kalpeana;
+h‰n kuollut oli! Sire, mun sortuu ‰‰ni, sana
+kuvaillen surmaa moista suuren sankarin;
+sen itkut, huokaukset kertoo paremmin.
+
+DON FERNANDO.
+Rohkaistu, tyt‰r, tied‰: t‰st‰ l‰htien
+kuningas olla tahtoo taattos sijainen.
+
+CHIMENE.
+Sire, liika kunnia mun seuraa kurjuuttani.
+Jo kerroin, kuinka lˆysin is‰-vainajani:
+povensa puhki oli, kuin mua varten yh‰
+kirjoitti teht‰v‰‰ni tomuun hurme pyh‰
+tai ehk‰ uljuutensa viel‰ kuolon yˆst‰
+tuon haavan kautta huusi mulle koston tyˆst‰,
+ja ett‰ kuninkaan sit' oisi pakko kuulla,
+oikeutta anoo se nyt tytt‰rens‰ suulla.
+Sire, ‰lk‰‰ salliko, ett' edess‰nne t‰‰ll‰
+niin liki liikkuis moinen hurjuus vallanp‰‰ll‰,
+rankaisematta ett‰ arvokkaimmat j‰‰
+alttiiksi iskuille, joit' iskee huimap‰‰,
+ett' uskalikko nuori heid‰n hurmein kylpee,
+lyˆ maineen, muiston heilt‰ vie, ja siit' on ylpee!
+Jos kostamatta j‰‰ tuo surma sankarin,
+se mielet j‰‰hdytt‰‰ teilt' innokkaimmatkin.
+Is‰ni kuollut on, ma pyyd‰n: kostakaatte!
+Ma siit‰ viihdy en, te siit‰ hyˆdyn saatte.
+Teilt' anastaa tuo kuolo paljon arvokasta.
+Verest‰ veri siis ja kuolo kuolemasta!
+Niin tehk‰‰, vuoks ei mun, vaan vuoksi valtikkanne,
+vuoks itsenne, vuoks arvonne, vuoks kunnianne,
+kaikk' uhratkaa, ma sanon, valtiolle, turmaa
+mik' uhkaa kansanne ja suuruutenne surmaa!
+
+DON FERNANDO.
+Puhukaa, Don Diego!
+
+DON DIEGO.
+                    Autuas, ah, mies,
+mi elon kadottaa, kun sammuu voiman lies!
+Ah, kurjaa kohtaloa miesten uljasten,
+kun p‰iv‰ p‰‰ttyy yˆhˆn pitk‰in vuosien!
+Ma, jolle joka tyˆ vain kunnian ol' koitto,
+ma, jota kaikkialle aina seuras voitto,
+ma t‰n‰‰n vuosieni liikain vuoksi vaan
+saan siet‰‰ herjaa, kyvytˆnn‰ kostamaan!
+Mit' taisto voinut ei, ei v‰ijys, saarto mik‰‰n,
+Granada voinut ei, ei Arragonia ik‰‰n,
+vihollisenne ei, ei kateus kaikki, sen
+t‰‰ll' eess‰ silm‰inne voi kreivi kerskaten;
+kateena vaalistanne voittohon h‰n luotti,
+min h‰lle minuun n‰hden heikkous i‰n tuotti.
+N‰‰ hapset, harmennehet kyp‰r-raudan alla,
+t‰‰ veri, eest‰nne mi virtas kunnialla,
+t‰‰ k‰sivarsi, muinoin kauhu armeijain,
+ois saanut h‰pe‰ll‰ k‰yd‰ hautahain,
+jos poikaa siitt‰nyt en arvoist' oisi maani,
+arvoista itseni ja jalon valtiaani.
+K‰tens‰ mulle lainas, kreivin tappoi h‰n,
+puhdisti kunniani, poisti h‰pe‰n.
+Jos mies on rangaistava tautta miehuutensa,
+jos korvapuustin kosto vaatii korvauksensa,
+mun yllein yksin myrsky kaikki tulkohon!
+Sire, p‰‰t‰ rangaiskaa, kun k‰si rampa on!
+Rikosta taikka ei syy kiistan olkoon t‰‰,
+h‰n vain sen k‰si on, ma siin‰ olen p‰‰.
+Is‰ns‰ surmaa on Chimene vaikeroinut;
+h‰n ei ois surmannut, jos min‰ oisin voinut.
+Siis p‰‰ni uhratkaa t‰‰ vanha Tuonen yˆlle
+ja k‰tt‰ s‰‰st‰k‰‰ niin nopsaa tuhotyˆlle!
+Hyvitt‰k‰‰ Chimene minun hurmeellani,
+ma siit' en kielt‰ydy, en v‰ist‰ kuoloani,
+en soimaa ankaraksi p‰‰tˆst‰nnek‰‰n;
+ken kuolee h‰pe‰tt‰, kuolee mielell‰‰n.
+
+DON FERNANDO.
+Asia t‰rkki on, se suuren neuvoston
+edess‰ tuomionsa vasta saapa on.
+Don Sancho, saattakaa Chimene kotiin! Sana
+Diegon ja t‰‰ hovi h‰ll' on vankilana.
+Poikansa etsik‰‰! Ma oikeutta teen.
+
+CHIMENE.
+Murhaajan kuolema, Sire, kuuluu oikeuteen.
+
+DON FERNANDO.
+Lev‰hd‰, tytt‰reni, turra tuskasi!
+
+CHIMENE.
+Jo levon neuvostai t‰‰ murhe kasvavi.
+
+
+
+
+KOLMAS NƒYT÷S.
+
+
+1:nen kohtaus.
+
+DON RODRIGO. ELVIRA.
+
+ELVIRA.
+Mit' tehnyt oot, Rodrigo? Mist‰ saavut, hurja.
+
+DON RODRIGO.
+K‰yn tiet‰ tummaa, eess‰ kohtalo vain kurja.
+
+ELVIRA.
+Mist' otat rohkeutes ja ylpeytes tuon uuden
+n‰ky‰ siell‰, minne saatoit onnettuuden?
+Kuin? T‰nne vainoatko kreivin varjoa?
+H‰nt' etkˆ surmannut?
+
+DON RODRIGO.
+
+                      Vuoks kunniani ma
+sen tein: jos el‰is h‰n, se h‰pe‰ni ois.
+
+ELVIRA.
+Majasta murhatunko turvaa etsit? Pois!
+Ei paikka murhaajan se ollut milloinkaan.
+
+DON RODRIGO.
+Ma eteen tuomarini tulla tahdoin vaan.
+Mua ‰llˆs katso kasvoin kummastunein! Turmaa
+kun olen kylv‰nyt, myˆs itse etsin surmaa.
+Chimene vain ja lempeni mun tuomitkoon!
+Vihansa sytt‰in kuolon ansainnut ma oon,
+siks saavun k‰dest‰ns‰ saamaan lahjana
+sen kuolon, jonka kuulla suustaan tahdon ma.
+
+ELVIRA.
+Vihaansa v‰lt‰ ennen, karta katsettansa,
+t‰‰ll'-ololtasi s‰‰st‰ ensi tuskiansa!
+ƒl' alttiiks antaudu ens hyˆkyp‰ille vaivan;
+se tunteittensa myrskyn raivoon nostais aivan.
+
+DON RODRIGO.
+Ei, ei, tuo kallis, jota syv‰‰n loukkasin,
+mua rangaista ei voi ees raivoin riitt‰vin;
+ma sata kuolemaa voin v‰ltt‰‰, jos ma voin
+pikemmin kuollen surman suurentaa sen noin.
+
+ELVIRA.
+Chimene linnass' itkee, huutaa huokaavana,
+h‰n sielt‰ saapuva on seuran saattamana,
+Rodrigo, poistu, pyyd‰n, huolest' auta minut!
+He mit‰ virkkaiskaan, jos n‰kis t‰‰ll‰ sinut?
+Tahdotko kurjuutensa lis‰ks antaa tiet‰‰
+parjaajain, ett‰ is‰n murhaajaa h‰n siet‰‰?
+H‰n palaa jo, jo h‰net n‰‰n: k‰y piilohon,
+Rodrigo, kunniansa vuoks, mi vaarass' on.
+
+
+2:nen kohtaus.
+
+DON SANCHO. CHIMENE. ELVIRA.
+
+DON SANCHO.
+Vihanne hurskas on, on pyh‰t kyynelenne,
+veriset uhrit vaatii hyv‰ oikeutenne,
+siks sanoin yrit‰ en teit‰ lohduttaa,
+vihanne myrsky‰ en viiht‰‰ valtavaa.
+Mut jos ma palvella voin teit‰, k‰ytt‰k‰‰
+miekkaani, kostakaa n‰in sill‰ kuolo t‰‰,
+tuo syyp‰‰ rangaiskaa mun rakkaudellani:
+k‰teni k‰skyst‰nne hyvin iskevi.
+
+CHIMENE.
+Mua kurjaa!
+
+DON SANCHO.
+            N‰‰tte: teilt‰ puoltajaa ei puuttuis.
+
+CHIMENE.
+Lupasi oikeutta kuningas, h‰n suuttuis.
+
+DON SANCHO.
+Hitaasti oikeus tuo kuninkaitten k‰y:
+voi vasta ilmet‰, kun rikollist' ei n‰y.
+Sen kulku verkka liikaa kyyneleit‰ nostaa,
+te suokaa ritarin siis asevoimin kostaa,
+se keino varmemp' on ja nopeampi.
+
+CHIMENE.
+                                  Mutta
+myˆs viimeinen. Jos sent‰‰n mielt‰in murtunutta
+te s‰‰litte, kun siihen tullaan: teille vapaan
+suon vallan kostamahan eest‰in ritar'tapaan.
+
+DON SANCHO.
+Se onni ainoo on, mun jota sielu halaa,
+Pois k‰yn ja toivoon tyydyn, mieless‰in mi palaa.
+
+
+3:s kohtaus.
+
+CHIMENE. ELVIRA.
+
+CHIMENE.
+Siis vihdoin vapaa, vihdoin vailla kahlehia
+voin sulle tuskiani virkkaa tummimpia,
+voin huokauksilleni vallan antaa, mielen
+avata, kirvoittaa t‰‰n surun synk‰n kielen!
+Is‰ni kuollut on, Elvira. Ensi miekkaan
+Rodrigon purskahtain tuo hurme vuosi hiekkaan.
+Siis itkek‰‰, ah silm‰t, viljoin itkek‰‰!
+Mult' toinen elonpuol' lˆi puolen el‰m‰‰
+ja vaatii kostamaan mun tuota menneen turmaa
+h‰nelle, p‰ivi‰in mi en‰‰ yksin hurmaa.
+
+ELVIRA.
+Lepoa tarvitsette.
+
+CHIMENE.
+                   Ah, sa levosta
+puhutko tuskassani niin tulen-tuimassa!
+Ma kuinka lohduttua koskaan voin, jos en
+vihata k‰tt‰ voi, mi alkusyy on sen?
+Voin vaivaa toivoa vain i‰nikuista,
+kun syyt‰ vainoan, syyp‰‰t‰ lemmin ma.
+
+ELVIRA.
+Is‰nne murhaajaako rakastatte noin?
+
+CHIMENE.
+Rakastan? Riit‰ ei! Ma h‰nt‰ jumaloin.
+Vihani lempi voittaa; armahani n‰‰n
+ma murhamiehess‰, n‰‰n joka piirteess‰‰n,
+ja tunnen, kuinka viel‰ syd‰mess‰ni
+is‰‰ni vastahan Rodrigo iskevi.
+H‰n hyˆkk‰‰, ahdistaa, h‰n v‰istyy, vaanii, torjuu,
+h‰n kons' on voitolla, kons' allakynsin horjuu,
+mut t‰ss‰ taistelossa lemmen ynn‰ vihan
+ei taivu sieluni, vaan syd‰n s‰rkyy ihan;
+n‰‰t vaikka vallitsee mua liekki lemmen armaan,
+en tiet‰ velvoituksen tuolta tutki varmaan,
+k‰yn horjumatta, kunne ohjaa kunniani.
+Murehtii kohtaloa koidon armahani
+t‰‰ syd‰n, mutta silti tied‰n s‰‰lienki,
+ken olen ynn‰ mit‰ tahtoo taaton henki.
+
+ELVIRA.
+Aiotte kostaa?
+
+CHIMENE.
+               Ah, tuo aatos julma on,
+myˆs kosto, jonka vaatii vallat kohtalon!
+Ma p‰‰t‰‰n pyyd‰n, sit‰ saada pelk‰ilen,
+surmaansa etsin, vaikka kuolen kanssa sen.
+
+ELVIRA.
+Hyl‰tk‰‰, hyl‰tk‰‰ tuo tuuma surullinen!
+Lain alle tuiman niin ei teid‰n antauminen!
+
+CHIMENE.
+Kuin? Taatto kuollut multa, melkein sylist‰in,
+huutaisi kostoa ja turhaan huutais n‰in?
+Lumojen muiden vuoksi syd‰n heikko t‰m‰
+vain oisko h‰pe‰n ja tuskan kyynelt‰m‰,
+ja siet‰isinkˆ alle kurjan vaitiolon
+katoovan kunniani lemmen vuoksi polon?
+
+ELVIRA.
+Mua uskokaa: te ootte anteeks annettava,
+kun teid‰n miehelle on kaunaa kannettava
+niin rakkaalle, niin lempiv‰lle. Kyllin teitte,
+kun eteen kuninkaan jo asianne veitte;
+noin ‰lk‰‰ synkk‰mielin syˆskˆ eesp‰in!
+
+CHIMENE.
+                                        Kostaa
+mun t‰ytyy, kunniani ylˆs yksin nostaa,
+ja mit‰ kuiskineekin lempi, kuule tuota
+ei sielu suuri eik‰ tekosyihin luota.
+
+ELVIRA.
+Mut h‰nt‰ vihaa ette? H‰nt‰ lemmitte?
+
+CHIMENE.
+Sen myˆnn‰n.
+
+ELVIRA.
+            Mik‰ siis on teid‰n aikeenne?
+
+CHIMENE.
+Pelastaa kunniani, p‰‰tt‰‰ tuska vaan,
+h‰nelle kostaa, kuolla h‰nen kuoltuaan.
+
+
+4:s kohtaus.
+
+DON RODRIGO. CHIMENE. ELVIRA.
+
+DON RODRIGO.
+No niin, tuo p‰‰tˆs teilt‰ v‰h‰n vaivaa kysyy:
+eloni ottakaa, niin kunnianne pysyy.
+
+CHIMENE.
+Elvira, mit‰ n‰‰n? Me miss‰ olemme?
+Muu eess‰in, talossain! Rodrigo onhan se!
+
+DON RODRIGO.
+Te ‰lk‰‰ s‰‰st‰kˆ mun vertain, nauttikaa
+makeutta kostonne ja koidon kuolemaa!
+
+CHIMENE.
+Ah!
+
+DON RODRIGO.
+    Kuulkaa!
+
+CHIMENE.
+             Kuolen!
+
+DON RODRIGO.
+                    Hetki vain!
+
+CHIMENE.
+                               Pois menk‰‰ meilt‰!
+Mun kuolla sallikaa!
+
+DON RODRIGO.
+                    Ma sanaa pyyd‰n teilt‰.
+Te sitten vastatkaa vain t‰ll‰ miekalla!
+
+CHIMENE.
+Verest‰ taattoni se viel' on kostea!
+
+DON RODRIGO.
+Chimene...
+
+CHIMENE.
+           Silmist‰in tuo ase kauhun poista,
+rikokses, el‰m‰s se ettei soimaa toista!
+
+DON RODRIGO.
+Sit' ennen katso, ettei vihas liekki viihtyis,
+vaan kaunas kasvaisi ja kostos vauhti kiihtyis!
+
+CHIMENE.
+Mun vertain vuotaa se.
+
+DON RODRIGO.
+                       Se iske vereen mun,
+n‰in siit‰ huohtamasta lakkaa hurme sun.
+
+CHIMENE.
+Ah, julmuutta, mi tappaa taaton raudalla,
+sen n‰ˆll‰ tytt‰ren, kaikk' ilman armoa!
+Tuo ase siet‰m‰tˆn k‰tke! Tahdot, ett‰
+sua kuulisin, ja minut murhaat syd‰mett‰!
+
+DON RODRIGO.
+Teen tahtosi, ma vaikk' en hylk‰‰ toivoani
+k‰tesi kautta saada kaunis kuolemani;
+et multa vartoa voi katumusta halpaa
+teosta parhaasta, mi pojan kohtaa kalpaa:
+tuo tulos kiihkon, min voi veri pest‰ vain,
+h‰v‰isi taattoain ja minun mainettain.
+Mies kunnian ei k‰rsi korvapuustia;
+mua myˆs h‰n lˆi, siks herjaajaani etsin ma,
+tapasin, taaton kostin, pesin tahran pois,
+tekisin viel‰ tuon, jos tekem‰tt‰ ois.
+On totta, ett‰ vastaan taattoain ja mua
+mun rakkauteni kauan tahtoi s‰‰st‰‰ sua;
+sen voiman siit‰ arvaat, ett‰ ep‰rˆin
+niin suurta herjaa kostaa, ennenkuin ma lˆin.
+Sua suututtaa tai siet‰‰ loukkaus tuo mun t‰ytyi,
+jo tuumin, liikaa k‰si munkin kiireht‰ytyi,
+liiasta itse‰in jo kiihkeydest‰ moitin
+ja sill‰ kauneutesi voiman yksin voitin,
+kun sulos suurimmat tuon mursi aatteen ies,
+sua ettei ansaitseisi kunniaton mies
+ja ett‰ lempes uhmin sielus vihaisi
+mun halpuuttain, kuin uljuuttain se rakasti;
+totellut jos ma oisin lempes ‰‰nt‰, en
+ma ollut oisi sun ja vaalis arvoinen.
+Sen viel‰ virkan, vaikka sit‰ huoannenki,
+sen toistan, sikskuin t‰ss‰ ruumiissain on henki:
+sua loukkasin, mut niin mun tehd‰ t‰ytyi! Pesi
+se tahran multa pois, taas olen arvoisesi.
+Velaton taatostain jo oon ja kunniasta,
+hyvitys vaatia nyt sull' on vuoro vasta.
+Vereni tarjota vain sulle tahdoin: mit‰
+mun oli teht‰v‰, ma tein, teen viel‰ sit‰.
+Ma tied‰n, vastaani sun is‰s kuolo nostaa,
+en uhris henke‰ ma sulta tahdo ostaa,
+verest‰ vainajan siis veri vuodata,
+mi katsoo kunniakseen taattos kuoloa.
+
+CHIMENE.
+Rodrigo! Vihollises vaikka oon, en voi
+sua siit‰ soimata, mi sua kunnioi,
+ja kuinka tuskani mun ilmi tulleekaan,
+sua syyt‰ en, ma murheitani itken vaan.
+Lait tunnen kunnian, ja mink‰ sytt‰‰ palon
+niin suuri herja miehen syd‰mess‰ jalon;
+n‰in tehden, k‰ytt‰ytyen miesn‰ kunnian,
+myˆs mulle antanut oot ohjeen oikean.
+Mua kuntos synkk‰ kautta voittos neuvoi, kostain
+is‰si kunnian ja oman mainees nostain;
+nyt mull' on sama huoli, mulla murheekseni
+eess' is‰n kosto on ja nosto maineheni.
+Ah! sinun t‰htesi mua murhe murtaa nyt.
+jos turma muu mult' oisi is‰n riist‰nyt,
+ois onni n‰hd‰ sua ollut lohtu ainoo
+t‰‰n poven polttavan, jot' tuska vain nyt vainoo,
+levinnyt lempe‰ ois rauha syd‰meeni,
+kun k‰si kuivannut ois armas kyyneleeni.
+Nyt surmaajansa t‰ytyy minun surmata,
+sen voiton lemmest‰ni vaatii kunnia,
+ja kauhun velvoitus, mi minut maahan painaa,
+muu vaatii toimimaan, pian ett‰ oisit vainaa.
+N‰‰t ‰llˆs varro, ett‰ vuoksi rakkauteni
+arasteleisin, kosk' on vuoro kostaakseni.
+Hyv‰kses lempi mit‰ kuiskineekin, sinun
+vertaises uljuudessa olla t‰ytyy minun:
+mua loukaten sa n‰ytit: olet arvoiseni;
+sun kuolos kautta n‰yt‰n: olen arvoisesi.
+
+DON RODRIGO.
+ƒl' en‰‰ lykk‰‰ vaatimusta kunnian!
+Se pyyt‰‰ p‰‰t‰ni, sen sulle tarjoan,
+se uhraa teht‰v‰lles ylev‰lle jo:
+suloinen surma, ah, suloinen tuomio!
+Jos oikeus hidastuu t‰‰n syyni j‰lkehen,
+hidastuu kunnias ja kosto rikoksen.
+Oon onnellinen, kun niin kauniin kuolon saan!
+
+CHIMENE.
+En ole pyˆvelisi, vastapuoles vaan
+Ma p‰‰nkˆ ottaisin, min pelastust' et auta?
+Mun teht‰v‰in on ahdistaa, sun puolustauta.
+Sen mulle hankkiva on toinen; k‰si t‰‰
+sua vain on vainoomaan, ei surmaan velkap‰‰.
+
+DON RODRIGO.
+Hyv‰ksein lempi mit‰ kuiskineekin, minun
+vertaisen' uljuudessa olla t‰ytyy sinun;
+mut is‰n kostohon ken k‰tt‰ toista lainaa,
+Chimene, usko mua, n‰‰ alas arvot painaa.
+K‰teni oma vain mun kosti herjani,
+k‰tesi oman vain myˆs olkoon kostosi.
+
+CHIMENE.
+Sua julmaa! Tuohon miks niin itsepintaistua?
+Avutta itse kostit, miksi autat mua?
+Sun tapaas olen toimiva, ei uljuuteni
+voi siet‰‰, ett‰ kanssas jaan ma maineheni.
+Is‰ni, kunniani mist‰‰n tahdo kiitt‰‰
+sua ei, ei tuloksia lempes, tuskas niitt‰‰.
+
+DON RODRIGO.
+Ah, tuima tunto kunnian! Ma kuinka voisin
+Sult' armon saada tuon? Siit' autuas ma oisin,
+kautt' taattos kuollehen, kautt' yst‰vyytemme,
+kostosta, s‰‰list‰ suo mulle surma se!
+K‰tesi kautta kuolla helpomp' oisi kurjan
+sun sullios t‰‰n kuin el‰‰ vihas alla nurjan.
+
+CHIMENE.
+Pois k‰y! Sua vihaa en.
+
+DON RODRIGO.
+                       Sun t‰ytyy niin.
+
+CHIMENE.
+                                       En voi.
+
+DON RODRIGO.
+Huhuja, parjausta uhmaatko? Kun soi
+mun julki rikoksein, ja ett‰ lempes kest‰‰,
+ken valheen, kateuden sen tulvan jaksaa est‰‰!
+Ne heti vaienna ja en‰‰ viipym‰tt‰
+pelasta kunniasi, surman k‰yt‰ k‰tt‰!
+
+CHIMENE.
+Se paistaa kirkkaammin, jos eloon j‰t‰n sun;
+kateus tummin soip' on kunniaani mun
+ja s‰‰liv‰ mun murheitani, tiet‰en,
+sua ett‰ vainoon, vaikka kuinka lempinen.
+K‰y pois, mun tuskaksein ‰l' en‰‰ t‰‰ll‰ n‰y,
+mun vainoomani, lempim‰ni mies! Pois k‰y!
+Yˆn varjot askelias suojaa; l‰htˆsi
+jos n‰hd‰‰n, vaarassa on hyv‰ maineeni.
+Se parjaukselle on tieto altis ainoo,
+sua ett‰ sied‰n nyt, sua etten t‰‰ll‰ vainoo;
+siis p‰‰lt‰ hyveeni tuo hyˆkk‰ys sa torju!
+
+DON RODRIGO
+Mun kuolla suo!
+
+CHIMENE.
+                Pois k‰y!
+
+DON RODRIGO.
+                         Ja p‰‰tˆkses ei horju?
+
+CHIMENE.
+Vihaani vaikka tunteet kauniit viihdytt‰‰,
+sen taaton kostohon ma tahdon kiihdytt‰‰,
+mut vaikka vankinaan mua tyˆ t‰‰ tuima pit‰‰,
+toiveeni ainoa on, etten voisi mit‰‰n.
+
+DON RODRIGO.
+Oi, lemmen ihmett‰!
+
+CHIMENE.
+                   Voi, kuormaa kurjuuden!
+
+DON RODRIGO.
+Min turman tuotti meille riita taattojen!
+
+CHIMENE.
+Ken sit' ois uskonut?...
+
+DON RODRIGO.
+                        Ken voinut ennustaa?...
+
+CHIMENE.
+Niin l‰hell' onni jo, ja kaikki katoaa!
+
+DON RODRIGO.
+Niin liki valkamaa, niin vartomattako
+toiveemme murtanut on rajumyrsky jo?
+
+CHIMENE.
+Ah, tuskaa Tuonelan!
+
+DON RODRIGO.
+                    Ah, katumusta turhaa!
+
+CHIMENE.
+Sua en‰‰ kuule en, t‰‰ tuokio mun murhaa.
+
+DON RODRIGO.
+Hyv‰sti: kuolon-kurjaan k‰yn ma el‰m‰‰n,
+siks kunnes kostollasi multa riist‰t t‰‰n.
+
+CHIMENE.
+Jos siin‰ onnistun, saat multa sanan sen:
+sun j‰lkees hetke‰k‰‰n el‰‰ tahdo en.
+Hyv‰sti: varo, ettei sua kenk‰‰n n‰‰.
+
+ELVIRA.
+Ah, mitk‰ turmat meille taivas l‰hett‰‰!
+
+CHIMENE.
+Suo surra mun, sa minut j‰t‰ yksikseni,
+ma yˆt‰, hiljaisuutta etsin itkulleni.
+
+
+5:s kohtaus.
+
+DON DIEGO.
+Iloa ihminen ei koskaan t‰ytt‰ saa,
+hetkemme kirkkaimmatkin huoli hunnuttaa,
+sekoittuu aina meid‰n menestyksihimme
+karvautta mielen, jota juuri karkoitimme.
+Keskell‰ onnen tuntuu tuuli viluinen;
+ilossa uin, ja silti pelk‰‰n, vapisen.
+Kuolleena herjaajani n‰hnyt oon, en saa
+ma k‰tt‰ kostajani miss‰‰n puristaa,
+ma turhaan juoksen, joudun, horjun heikkona
+kaupungin kautta t‰‰n; sen v‰h‰n voimia,
+min mulle j‰tt‰nyt on vanhuus, kulutan
+ma suotta etsint‰‰n tuon kumman voittajan.
+Ma yˆss‰, kaikkialla sylin h‰lle tarjoon,
+tapailen h‰nt‰, satun vain ma tyhj‰‰n varjoon,
+ja vuoksi pett‰v‰n tuon kuvajaisen pelko,
+ep‰ily rakkauteni saartaa. Ah, jos selko
+mull' oisi paostaan! Ma kauhun valtahan
+jo joudun, koska muistan kreivi-vainajan
+lukuisat yst‰v‰t ja suuren saattueen.
+Rodrigon tappoi he tai veiv‰t vangikseen.
+Kautt' taivaan! Taasko petyn vuoksi harhakuvan
+vai ainoon toivoniko n‰‰n ma toteutuvan?
+H‰n, h‰n se on! Ah, p‰‰sin p‰‰h‰n etsint‰ni,
+taas poistuu pelkoni ja haihtuu ik‰v‰ni!
+
+
+6:s kohtaus.
+
+DON DIEGO. DON RODRIGO.
+
+DON DIEGO.
+Rodrigo, vihdoin taivas sallii n‰hd‰ sun!
+
+DON RODRIGO.
+Ah!
+
+DON DIEGO.
+    Huokauksin ‰llˆs vastaa iloon mun!
+Suo heng‰ht‰‰ mun, ett‰ sua kiitt‰isin,
+kun uljuutein sun tunnustaa jo kuitenkin;
+sit' olet j‰ljitellyt hyvin: sankarit
+sukuni mainetyˆll‰s eloon her‰tit.
+Sa heist‰ polveudut, mun olet poikani,
+mun kaikki urhotyˆni lˆi ens iskusi.
+Ylist‰‰ tahdon tulta, voimaa nuoruutesi,
+t‰‰ koe suuri, kaunis olkoon onneksesi!
+Sa sauva vauhuutein, sa p‰iv‰in huippu, paina
+suudelma poskellein, mi nyt on kirkas aina,
+tuo tunne paikka herjan, jonka poistit multa,
+kun valkop‰‰ni taas sai kunniansa sulta.
+
+DON RODRIGO..
+On teid‰n kunnia, en voinut v‰hemp‰‰
+poikanne, kasvattinne ollen. Voitto t‰‰
+jos sille mieleen on, jolt' el‰m‰n ma sain,
+se valaisee, se ihastuttaa sieluain.
+Mut ‰lk‰‰ ilossanne olko kateellinen,
+jos oma teht‰v‰in nyt mun on t‰ytt‰minen.
+Vapaasti tuskani t‰‰n tulla suokaa julki;
+sananne maireet silt‰ kyllin suun jo sulki.
+En kadu, ett‰ olen teit‰ palvellut,
+mut kuinka j‰lleen saan, mit' olen uhrannut!
+T‰‰ k‰si, kostohonne nousten, nousi vastaan
+mun rakkauttani, sen antain kunniastaan.
+Ei sanaa! Eest‰nne ma kaikki kadotin;
+lie suora velkani nyt teille suurinkin.
+
+DON DIEGO.
+Ei, ei, on korkeammat voittos heelm‰t! Sulle
+el‰m‰n annoin vain, sa annat maineen mulle,
+ja niinkuin kunnia on kalliimp' el‰m‰‰,
+niin sulle suurempi nyt velkani on t‰‰.
+Mut poista heikkous jo poven uljaan! Maine
+meill' yks on vain, mut moni lemmen vienon laine.
+Huvia lempi on, mut maine velvoitusta.
+
+DON RODRIGO.
+Ah! Mit‰ lausutte?
+
+DON DIEGO.
+                   Vain miehen vakaumusta.
+
+DON RODRIGO.
+Loukattu kunnia jo mulle kostaa, kostaa!
+Minussa tohditteko mielt‰ halpaa nostaa?
+H‰pe‰n yht‰ suuren, saman saakohon
+soturi miehuuton kuin sulho uskoton!
+Te ‰lk‰‰ herjatko mun uskollista mielt‰in;
+mun suokaa uljas olla, mut ei valaa kielt‰in,
+siteeni liian vahvat on, ne murru ei,
+valani muuri viel' on ep‰toivollei,
+ja kun en j‰tt‰‰ voi, en saada armastain,
+suloisin kohtalo on mulle kuolo vain.
+
+DON DIEGO.
+Viel' aika etsi‰ ei ole kuolemaa;
+k‰svarttas vahvaa kaipaa ruhtinas ja maa.
+Pel‰tty laivasto k‰y virtaa pitkin, yˆst‰
+se uhkaa kaupungin ja seudun turmaan syˆst‰.
+On maurit maalla pian, pimeys ynn‰ vuoksi
+tuo heid‰t tuokiossa muuriemme luoksi;
+hovissa sekasorto, kauhu kansass' on,
+soi huudot siell‰ vain ja huokaus toimeton.
+H‰d‰ss‰ yleisess‰ olen onnekseni
+viissataa kumppania saanut vierelleni,
+he tiet‰in herjani kaikk' oli kostamaan
+kiistaani tulleet, hehkuin tulta samaa vaan.
+Edelle enn‰tit sa kouriensa vahvain:
+muu veri muistoks j‰‰kˆˆn kalpojensa kahvain,
+k‰y, heid‰t johda, kunne kunnia sun vie,
+p‰‰miesn‰ sankarein tee maurein halki tie!
+T‰‰ hyˆkk‰ys vainolaisten vanhain torju sielt‰,
+jos tahdot, kuolo kaunis etsi kalvan tielt‰,
+tilaisuus tarjouu, sa siihen tartu, kansa,
+kuningas kiitt‰kˆˆn sun surmaas voitostansa!
+Mieluummin laaker-otsin toki tullos kotiin,
+maineesi mahdu ei vain kiistan, koston sotiin,
+ylemm‰ nosta se, n‰in anteeks-antoon sa
+pakota kuningas, Chimene vaienna!
+Jos h‰nt‰ lemmit, tied‰, syd‰meens‰ rata
+vain ainoa on se, mi vartoo voittajata.
+Mut aik' on t‰rkki, sua turhin sanoin t‰ss‰
+pid‰t‰n, vaikk' ois hetkes olla lent‰m‰ss‰,
+mua seuraa, taistele ja ruhtinaalle n‰yt‰,
+sen ett‰ teet, jot' ei nyt en‰‰ kreivi t‰yt‰.
+
+
+
+
+NELJƒS NƒYT÷S.
+
+
+1:nen kohtaus.
+
+CHIMENE. ELVIRA.
+
+CHIMENE.
+Elvira, etkˆ usko, ett' on v‰‰r‰ huhu?
+
+ELVIRA.
+H‰nt' yksin ihaillaan, ei kenk‰‰n muusta puhu,
+vaan kaikki sankaruutta pilviin saakka kiitt‰‰
+tuon nuoren, jonka tˆille sanat tuskin riitt‰‰.
+Vain h‰pe‰kseen maurit h‰nen eteen tuli:
+nous nopsaan vuoksi tuo, myˆs nopsaan paoks suli;
+kolmessa tunniss' oli voitto saatu niin,
+kaks kuningasta ett‰ heilt‰ vangittiin.
+Ei voimaa p‰‰llikkˆmme mik‰‰n voinut est‰‰.
+
+CHIMENE.
+Rodrigon k‰tt‰kˆ ei kukaan voinut kest‰‰?
+
+ELVIRA.
+K‰dell‰‰n kuningasta kaks h‰n voitti, heid‰t
+k‰dell‰‰n vangiten n‰in vapautti meid‰t.
+
+CHIMENE.
+Sa mist‰ kuullut olet oudot viestit n‰‰?
+
+ELVIRA.
+Kansalta, kaikkialla nyt mi ylist‰‰
+h‰nt' yht‰, ainoata, ilon, onnen tuojaa,
+maan turva-enkeli‰, vapautensa suojaa.
+
+CHIMENE.
+Kuningas mink‰ antaa arvon tyˆlle t‰lle?
+
+ELVIRA.
+Rodrigo esitt‰yt‰ viel' ei tohdi h‰lle,
+mut hoviin Don Diego riemuin saattanut
+nimess‰ voittajan on vangit kruunatut
+ja anoo, kuninkaan ett' armo ottais vastaan
+k‰den, mi palvelee n‰in maataan, ruhtinastaan.
+
+CHIMENE.
+H‰ll' eikˆ haavaa siis?
+
+ELVIRA.
+                        En ole tuosta kuullut.
+Te kalpenette! Ken teit' ois niin heikoks luullut!
+
+CHIMENE.
+Vihani heikennyt taas her‰‰. Huolissain
+h‰nest‰ muistanut en omaa murhettain.
+Se mulle mieleenkˆ, kun h‰nt‰ kiitet‰‰n?
+Velvoitus, kunniako vait on rinnan t‰‰n?
+Kaks kuningasta voitti, murhas taaton multa
+tuo miesi: viihdy, lempi, viha iske tulta!
+T‰‰n murhepuvun, josta tunnen tuskani,
+h‰n ensi uljuudellaan mulle toimitti;
+lie muiden miehekk‰‰ksi h‰nt‰ kiitt‰minen,
+t‰ss' ymp‰ristˆss‰ h‰n vain on rikollinen.
+Te hunnut, harsot synk‰t, vaatteet kaihon, joihin
+h‰n ensi voitollaan mun k‰‰ri kauheoihin,
+vihani viritt‰j‰t, olkaa tukenani
+nyt vastaan lempe‰in, jos vaatii kunniani!
+Ja jos mun rakkauteni sulattaisi j‰‰ni,
+te mulle muistuttakaa synkk‰‰ teht‰v‰‰ni
+ja k‰tt‰ voittoisata suoraan syytt‰k‰‰!
+
+ELVIRA.
+Prinsessa saapuu. Hillitk‰‰tte myrsky t‰‰.
+
+
+2:nen kohtaus.
+
+PRINSESSA. CHIMENE. LEONORA.
+ELVIRA.
+
+PRINSESSA.
+En t‰nne lohduttamaan tule tunteitasi,
+mun huokaukseni vain hakee huoliasi.
+
+CHIMENE.
+Ilohon yhteisehen ennen yhtyk‰‰
+ja onneen, jonka teille taivas l‰hett‰‰!
+Prinsessa, mulla vain on suruun oikeus.
+Se vaara torjuttu, se kansan pelastus,
+min aikaan saanut on Rodrigon miekka, yksin
+minulle kyyneleit‰ kylv‰‰ k‰rsimyksin.
+H‰n hyvin palvellut on maataan, ruhtinastaan;
+k‰tens‰ tuhoisa on mulle ainoastaan.
+
+PRINSESSA.
+Chimene, ihmeit‰ h‰n aivan tehnyt lie.
+
+CHIMENE.
+Korviini k‰ynyt on tuon huhun herjan tie;
+kaikk' kansa huutaa h‰nt‰ yht‰ uljahaksi
+sodassa niinkuin on h‰n kurja kosijaksi.
+
+PRINSESSA.
+Tuo kansan ‰‰ni miks on kiusa korvillesi?
+Mars nuori tuo ol' kerran sunkin mielellesi,
+ol' altis sulle h‰n, h‰n sielus omisti;
+valintaas kiitt‰vi, ken h‰nt‰ kiitt‰vi.
+
+CHIMENE.
+On jokaisella siihen joku oikeus,
+mut mulle maineensa on uusi rangaistus.
+Mun kasvaa tuskani tuon miehen kunniasta;
+ma siit‰ h‰viˆni t‰yden n‰‰nkin vasta.
+Ah, tulta julmaa t‰t‰ rinnan lempiv‰n,
+jot' tieto lietsoo, mink‰ arvoinen on h‰n!
+Mut tunto velvoituksen viel' on mulla vankin:
+en kuule lempe‰in, vaan kuolemaansa hankin.
+
+PRINSESSA.
+Viel' eilen velvoitustas kaikki kunnioitti,
+sun jalo ponnistukses kaikkein mielet voitti,
+ihaili hovi kaikki suurta syd‰nt‰si
+ja rohkeuttas, s‰‰lein nuorta lempe‰si;
+mut neuvo yst‰vyyden kuule uskollinen.
+
+CHIMENE.
+Rikosta mulle ois sen neuvon hylkiminen.
+
+PRINSESSA.
+On oikeus eilinen jo v‰‰r‰ks v‰‰ntynyt,
+Rodrigo turvaksemme ainooks tullut nyt,
+h‰n kansan jumaloivan toivo on ja lempi,
+kauhistus maurien, Kastilian kaiken hempi.
+Kuningas itse siihen taipuu totuuteen,
+h‰ness‰ vain ett' taattos el‰‰ uudelleen.
+Parilla sanalla voin selitt‰‰ sen: surmaa
+Rodrigon valmistain tuot valtiolle turmaa.
+Kuin? Milloin sallittu on is‰n kostajan
+maa is‰in syˆst‰ vainolaisten valtahan?
+Sun kostos meit‰ kohtaan onko oikea?
+Miks meit‰ rankaiset, kun meiss' ei rikosta?
+Ei niin, ett' ottaisit sa omaks sulhon t‰‰n,
+jot' is‰s kuolo pakottaa sun syytt‰m‰‰n;
+moist' itse moittisin jo. Siksi neuvon t‰t‰:
+h‰lt' ota lempes, meille el‰m‰ns‰ j‰t‰!
+
+CHIMENE.
+Ah, hyvyys sellainen ei kuulu mulle; rajaa,
+ei velvoituksella, mi mua eesp‰in ajaa.
+Ma vaikka lemmin tuota voittajaa, vaikk' on
+jumala kansan h‰n, mies vallansuosion,
+vaikk' ymp‰rˆiv‰t h‰nt‰ suuret sankarit,
+ma laakereilleen lasken synk‰t sypressit.
+
+PRINSESSA.
+Jaloa on, jos vuoksi is‰n p‰‰n jo harmaan
+velvoitus vaatii meilt‰ p‰‰t‰ sulhon armaan,
+mut jalompaa, jos vuoksi edun yhteisen
+ken uhraa harrastukset oman hurmehen.
+Mua usko, riitt‰‰, jos sa luovut lemmest‰si;
+h‰n mies on rangaistu, jos h‰n ei mieless‰si.
+Maan etu vaatii niin! Ja mit‰ luuletkaan,
+sinulle ett‰ myˆnt‰‰ armo kuninkaan?
+
+CHIMENE.
+Ev‰t‰ voi h‰n, min‰ en voi vaieta.
+
+PRINSESSA.
+Chimene, mieti, kuinka aiot toimia.
+Hyv‰sti: h‰irit‰ sua saa nyt seura ei.
+
+CHIMENE.
+Is‰ni kuolo multa vaalin vallan vei.
+
+
+3:s kohtaus.
+
+DON FERNANDO. DON DIEGO. DON ARIAS. DON RODRIGO. DON SANCHO.
+
+DON FERNANDO.
+Perij‰ jalo perheen kuulun, kunnia
+Kastilian ja kansan k‰sivarsi sa,
+sukua suurten is‰in, joiden vertaiseksi
+ens tyˆsi nostaa sun, en korvaustas keksi,
+on siihen liian pieni voima kuninkaan:
+enemm‰n arvoa on sulla eess‰ maan!
+Vapautit sen sa alta vainolaisen raa'an,
+vakiutti k‰dess‰in sun k‰tes vallan vaa'an,
+lˆit maurit, ennenkuin ma ehdin j‰rjest‰‰
+v‰keni torjumahan ase-aallot n‰‰;
+ne urhotˆit' on, joita palkitsemaan on
+kuningas itse keinoton ja toivoton.
+Siis vankis kruunup‰‰t nuo kaks sun palkitkoot:
+'Cid'-nimen, itse kuulin, heilt‰ saanut oot,
+'Cid' heid‰n kielell‰‰n kun 'herraa' merkitsee,
+nimeksi kunnian se sulle sopinee.
+Niinp' ollos Cid! Sen eess‰ kaikki taipukoon,
+Granada ja Toledo kauhuun vaipukoon,
+kaikelle kansallein, ken olet mulle sa,
+se merkitkˆˆn, ja sulle mit‰ velkaa ma.
+
+DON RODRIGO.
+H‰pe‰n puna, Sire, t‰‰ multa s‰‰st‰k‰‰!
+Armoonne n‰hden liian pieneks tyˆni j‰‰,
+punastun arvoton niin olla kunniaan,
+ma jota valtiaalta suurimmalta saan.
+Vereni velkaa on, min valtakunta antoi,
+myˆs maa ja ilma t‰‰, mi minut suureks kantoi,
+ken uhraa eest‰ ne tuon kallehimman, h‰n
+vain t‰ytt‰‰ alamaisen pyh‰n teht‰v‰n.
+
+DON FERNANDO.
+Ei kaikki, jotk' on velkaa samaa palvelusta,
+noin rohkeasti tarjoo mulle suoritusta;
+ja kosk' on uljuus heill‰ keskinkertainen,
+myˆs keskinkertaiset on menestykset sen.
+Siis sied‰ kunnias ja mulle voittos taru
+l‰hemmin kerro!
+
+DON RODRIGO.
+                Sire, kun uhkas vaara karu,
+kun vainolaisten tulva saattoi kaupungin
+jo kauhun valtaan, mua, jonka sekaisin
+viel' oli mieli, pyysi parvi kumppania
+is‰ni, h‰nen luokseen kokoon tullehia...
+Sire, anteeks, heit‰ jos ma k‰skytt‰nne k‰ytin
+ja uhkarohkealta teit‰ vastaan n‰ytin:
+joukkonsa valmis oli, porteillamme turma,
+jos hoviin ilmestyin, mua siell‰ vaani surma;
+siks mietin: pakko mun jos kuolla kuolemalla,
+mieluummin eest‰nne ma kuolen kunnialla.
+
+DON FERNANDO.
+Suon anteeks intos nopsan, jolla herjas kostit,
+kun maata puoltamalla anteeks-antos ostit;
+Chimene mulle mit‰ haastaneekin vasta,
+ma h‰nt‰ kuuntelen vain lohduttaaksein lasta.
+Mut jatka!
+
+DON RODRIGO.
+           Johdollani joukko t‰‰ siis l‰hti,
+jokaisen kulmaluilla miehenkunnon t‰hti.
+Viis sataa oltiin, mutta tullen satamaan
+tuhatta kolme: nopsaan kertyi miehet maan,
+niin kajo uljuuden, mi kasvoillamme loisti,
+povesta pelk‰‰vimm‰n kauhun kaiken poisti!
+Kaks kolmatt' osaa heist‰ heti tultuamme
+ma k‰tkin laivoihin, jotk' oli tarjonamme,
+mut j‰‰nnˆs, jonka luku joka hetki karttui,
+mi k‰rsim‰ttˆm‰n‰ vankemmaks vain varttui,
+mun ymp‰rill‰in hiljaa, vaiti vartoi tyˆt‰‰n
+ja maassa maaten vietti osan suuren yˆt‰‰n.
+Tekiv‰t k‰skyst‰ni samoin vartijat
+ja k‰tkˆss' ollen sotajuontani auttoivat;
+sen rohkeasti sanoin teilt‰ saaneeni,
+ma k‰skin kaikkia, ja kaikki totteli.
+Nyt vuoksi saapui; t‰htein valo himme‰
+purjetta n‰ytti meille kolmekymment‰:
+p‰in aallot p‰rskyy, joita vainopurret kynt‰‰,
+meri ja maurit rinnan valkamaan jo rynt‰‰!
+He tulla saa, he kaiken huomaa rauhaiseksi,
+ei ket‰‰n muureilla, ei satamassa keksi;
+pysymme hiljaa aivan, poistuu ep‰ilys
+jo heilt‰, ett‰ on t‰‰ meille yll‰tys;
+pelotta ankkuroiden maalle k‰y he niin...
+ja k‰siin joutuvat jo heit‰ vartoviin.
+Me silloin ponnahdamme ylˆs yht‰ aikaa
+tuhansin huudoin, jotka taivahalle raikaa,
+vastaavat venheist‰mme toiset, aseissaan
+esille syˆsten, maurit en‰‰ kauhultaan,
+ei tohdi ees, ei taa, p‰in merta ei, ei rantaa:
+jo ennen taistoa he ylen taistons' antaa.
+He ryˆstˆˆn saapuivat ja joutuivatkin sotaan.
+Pian verta virtailee, pian miekkojemme otaan
+he sortuu, maalta, merelt' ahdistaissa meid‰n;
+ei ehdi j‰rjesty‰ vastarinta heid‰n.
+Mut kohta p‰‰llikˆt jo koolle joukot ker‰‰,
+taas poistuu pelkonsa, taas rohkeutensa her‰‰:
+h‰pe‰ taistelotta kuolla seisahuttaa
+jo sekasortonsa ja heid‰t uljastuttaa.
+Vakaana meit‰ he kuin miekkamets‰ kohtaa,
+pian verta meid‰nkin jo rannat, raudat hohtaa,
+virralla, valkamassa, maalla, laivoissa
+tapahtuu teurastus, ja kulkee kuolema.
+Oh, kuinka kunniatta moni kuulu tyˆ
+j‰i sinne, jonka korjas pimeys ja yˆ,
+kun kukaan kohtalon ei arpaa n‰hd‰ voinut,
+vaikk' kuinka k‰dest‰‰n ois kuolon isku soinut!
+Rohkaisin kaikkialta joukkojamme n‰in,
+tuot' eesp‰in tunkien, taas tuota j‰rjest‰in,
+tulijat vuorostansa tungin p‰in ja ees,
+mut taiston tulokset ties vasta p‰iv‰ sees;
+sen valo vihdoin n‰ytti meid‰n voittaneen,
+myˆs maurit tappionsa huomas kauhukseen
+ja apujoukot meille rient‰v‰iset n‰hden
+heilt' aikeet voiton poistui kuolonpelvon t‰hden.
+He syˆksyy laivoihinsa, kˆydet katkaisten,
+soi pilviin saakka kaiku kauhun huutojen,
+paeten hujan hajan ei he huomaakaan,
+ovatko kuninkaansa heid‰n kerallaan;
+ei pelko t‰ytt‰‰ salli velvoitusta tuota,
+toi vuoksi heid‰t, vei taas rantojemme luota.
+Mut kaksi kuningastaan viel‰ iskee, lyˆ,
+harvoine yst‰vineen el‰m‰‰ns‰ myˆ,
+he hyvin taistelevat, vaikka hurmeessaan,
+ma itse turhaan vaadin heit‰ antaumaan;
+he eiv‰t kuulekaan, vain s‰il‰‰ heiluttain,
+mut n‰hden sortuvan jo viime sotijain,
+p‰‰miest‰ kysyv‰t he, kahden kamppaillen:
+esiinnyn, antautuu he, heid‰t vangitsen.
+Molemmat l‰hetin ma teille ‰sken. Laantui
+n‰in taisto, taistelijat pois kun kaikki taantui.
+N‰in palvelukseksenne.
+
+
+4:s kohtaus.
+
+DON FERNANDO. DON DIEGO. DON RODRIGO.
+DON ARIAS. DON ALFONSO. DON SANCHO.
+
+DON ALFONSO.
+                       Sire, Chimene t‰nne
+oikeutta pyyt‰m‰‰n k‰y teid‰n k‰dest‰nne.
+
+DON FERNANDO.
+Ik‰v‰ velvoitus ja kiusan uutinen!
+Pois k‰y! Sua n‰kem‰‰n ma h‰nt‰ vaadi en.
+Kaikesta kiitokses sun karkoitan; sit' ennen
+syleile kuningastas sent‰‰n pois sa mennen.
+(Don Rodrigo poistuu.)
+
+DON DIEGO.
+Chimene vainoo h‰nt‰, tahtois varjella.
+
+DON FERNANDO.
+Oon kuullut lemmest‰‰n. Tuon olen tutkiva.
+Surullisemmat olkaa!
+
+
+5:s kohtaus.
+
+DON FERNANDO. DON DIEGO. DON ARIAS.
+DON SANCHO. DON ALFONSO. CHIMENE.
+ELVIRA.
+
+DON FERNANDO.
+                     Vihdoin tyytyk‰‰,
+Chimene, t‰yttyv‰ on toivehenne t‰‰.
+Rodrigo vainolaisen lˆi, mut vaivoissansa
+edess‰ silm‰imme h‰n kuoli haavoistansa;
+taivasta kiitt‰k‰‰, mi kosti eest‰nne.
+(Don Diegolle.)
+N‰hk‰‰tte, kuinka kalpenee h‰n!
+
+DON DIEGO.
+                                N‰hk‰‰tte,
+h‰n kuink' on taintua ja kuinka ilmeist‰‰n
+jokainen kertoo, Sire, vain h‰nen lempe‰‰n.
+Ep‰ill‰ emme h‰nen rakkauttaan voi,
+syd‰men salaisuudet tuska ilmi toi.
+
+CHIMENE.
+Kuin? Kuollut on Rodrigo?
+
+DON FERNANDO.
+                          Ei, h‰n el‰‰! Yh‰
+h‰ness‰ leimuaa sua kohtaan lempi pyh‰.
+Tuo kyynel kuivatkaa, mi h‰nen t‰hden juoksi.
+
+CHIMENE.
+Sire, itket‰‰n myˆs ilon niinkuin tuskan vuoksi,
+on niille kummallekin heikko ihmis-aju,
+ja kun ne ‰kin saapuu, meilt‰ haihtuu taju.
+
+DON FERNANDO.
+Edukses uskotella tahdot mahdotonta?
+Chimene, tuskas liikaa n‰kyi.
+
+CHIMENE.
+                              Kuinka monta
+siis turmaa kohtaakin mua kurjaa! Vaivan
+vain tulos oli, Sire, ett' ‰sken uuvuin aivan;
+mut murhe oikea mun tilaan siihen laittoi.
+Tuo kuolonviesti multa koston k‰rjen taittoi:
+jos h‰net tappaa haava, eest‰ maamme saatu,
+vihani turha on ja koko koston laatu;
+niin kaunis loppu v‰‰ryytt' oisi suurta vasta!
+Ma tahdon surmaa h‰lle, mut en maineikasta,
+en mahtavaa, mi h‰net vain on kohottava
+paraativuoteelle: t‰ss' sopii mestauslava.
+Is‰ni vuoks h‰n kuolkoon, vuoks ei is‰nmaan,
+vaan nimin tahratuin ja herja muistonaan!
+Ei ole halpaa kuolla eest‰ maansa; surma
+niin kaunis samaa on kuin kuolottuuden hurma.
+Iloitsen voitostaan, teen rikkomatta sen:
+saan uhrini, saa valtakunta varmuuden.
+Mut mink‰ uhrin! P‰‰mies, sankareista ylin,
+ei kukin kaunistettu, mutta laaker-sylin,
+sanalla sanoen: mies niinkuin sopiikin,
+is‰ni kuolin-uhriks juuri arvoisin...
+Ah, toivo hullu t‰‰, min hourin s‰tehist‰!
+Ei puoleltain Rodrigoll' ole pelk‰‰mist‰.
+On heikot kyyneleeni h‰nt‰ vastaan; h‰lle
+on koko valtakunta auki, ylv‰h‰lle.
+Maassanne sallittu, Sire, kaikki h‰lle lie,
+minusta voiton h‰n kuin maureist' ‰sken vie;
+k‰dess‰ voittajan on voitonmerkki uus,
+on oikeus lyˆty, joka hurmevuosta huus.
+Me saattoon k‰ymme, seuraa voittovaunujaan
+lain halveksunta kanssa kahden kuninkaan.
+
+DON FERNANDO.
+Oot liian kiivas, tytt‰reni. Sen, mi jakaa
+oikeutta, oltava on niinkuin vaaka vakaa.
+Is‰si surmattiin, h‰n itse hyˆkk‰si,
+lempeytt‰ oikeus siis multa vaativi;
+mua ennen kuin sa syyt‰t, tutki syd‰nt‰si,
+Rodrigo vallitse sun eikˆ lempe‰si,
+salassa kuningastas kiit‰t, ett‰ sulle
+mun suosiostain s‰ilyy sulho moinen.
+
+CHIMENE.
+                                    Mulle!
+H‰n, vihamieheni! H‰n, tuoja kaiken turman,
+syy onnettuuteni ja armaan taaton surman!
+Niin halpa kostoni siis onko, ett‰ luullaan
+mua miellytt‰v‰n, jos sen ‰‰nt‰ tuskin kuullaan:
+Ep‰‰tte oikeuden te kyyneleilt‰ mun:
+Sire, sallikaa siis, ett‰ miekkaan turvaudun.
+H‰n miekoin loukkauksen mulle tehd‰ ties,
+siis herjan kostakohon myˆskin miekkamies!
+Ma h‰nen p‰‰t‰‰n pyyd‰n ritareilta hovin,
+niin, ken sen mulle tuo, sen morsioksi sovin,
+he h‰net surmatkoot, ja kohta kuin on kuollut
+Rodrigo, voittajalle olen vaimoks huollut.
+T‰‰, pyyd‰n, julkaiskaa kuin ois se tahto teid‰n!
+
+DON FERNANDO.
+Tuo tapa vallinnut on vanha maassa meid‰n,
+mut muka v‰‰ryyksi‰ rangaisten se on
+soturit parhaat usein vienyt valtion;
+useinkin tulos tumma v‰‰rink‰ytˆn t‰‰n
+syyp‰‰t‰ s‰‰st‰‰ sek‰ iskee syyttˆm‰‰n.
+Rodrigo, kuninkaalleen tok' on liian kallis,
+ett' onnen oikkuihin t‰‰ h‰nen syˆst‰ sallis.
+H‰n siit‰ p‰‰skˆˆn! Mit‰ rikkonutkin lie
+niin uljas, matkassaan sen maurein pako vie.
+
+DON DIEGO.
+Kuin? Laitko muutatte, Sire, h‰nen vuokseen vaan,
+niin t‰ydess' usein t‰‰ll‰ n‰hdyt voimassaan!
+Mit' uskois kansa, mitk‰ puheet kateet j‰isi,
+jos teid‰n turvissa h‰n t‰‰ll‰ hengitt‰isi
+ja siit‰ piill‰ saisi tekosyyll‰ tuolla,
+miss' urhoin kunnia on kaunihisti kuolla?
+Maineensa himmeneisi moisin suosioin,
+h‰pe‰ h‰lt‰ riist‰is voiton heelm‰t noin,
+h‰n rohkeasti kosti kreivin rohkeuden
+kuin kunnon mies, ja nimen s‰ilytt‰kˆˆn sen!
+
+DON FERNANDO.
+Kun niin te tahdotte, ma suostun; mutta sijaan
+jo yhden voitetun k‰y tuhat taistelijaa,
+Chimenen palkinto, min voittoherra saa,
+ritarit kaikki h‰nt‰ vastaan asestaa:
+ois v‰‰rin yhden k‰yd‰ kaikkein kanssa sotaan.
+Jo riitt‰‰, kerran jos h‰n vetoo miekan otaan.
+Mies katso mieluises, Chimene, tutki vaalis!
+T‰‰n taiston j‰lkeen turhat kaikk' on koston maalis.
+
+DON DIEGO.
+Tuo ‰lkˆˆn puolustusta olko pelk‰‰ville.
+Avatkaa paikka, eik‰ kenk‰‰n astu sille!
+Ken houkka tohtis h‰nen kimppuun k‰yd‰ nyt
+sen j‰lkeen mit‰ on h‰n t‰n‰‰n n‰ytt‰nyt?
+Ken ois se rohkea, ken hurjap‰‰ se ois,
+mi moisen kanssa tulla voittelolle vois?
+
+DON SANCHO.
+Avatkaa paikka! T‰ss' on taistoon haastaja;
+ma oon tuo hurjap‰‰, ma oon tuo rohkea.
+T‰‰ suokaa suosio, ma innon tulta palan;
+Chimene muistanee, min ‰sken vannoi valan.
+
+DON FERNANDO.
+Chimene, k‰tehens‰ kiistas uskotko?
+
+CHIMENE.
+Niin, vannoin, Sire.
+
+DON FERNANDO.
+                     Siis valmiit huomiseksi jo!
+
+DON DIEGO.
+Ei, Sire, vaan nyt, nyt heti riita ratkaistakoon;
+se ain on valmis, jok' ei menn‰ mieli pakoon!
+
+DON FERNANDO.
+Sodasta tullen heti taisteloonko syˆst‰?
+
+DON DIEGO.
+Rodrigo heng‰ht‰‰ sai kertoin hurmetyˆst‰.
+
+DON FERNANDO.
+Kuitenkin tahdon, ett‰ hetken kaks h‰n lep‰‰;
+mut ettei esimerkki taiston, jonka ep‰‰
+mun mieleni, kuin ev‰nnyt on ennenkin,
+tarttuisi muihin ehk‰ muistoin verisin,
+se k‰yd‰ mun ja hovin poissa ollen saa.
+(Don Arinalle.)
+Te yksin taistelijain kunto tuomitkaa,
+ja katsokaa, he ett‰ sotii urhoina;
+mun luoksein saattakaatte sitten voittaja.
+Ken olkohonkin, saman saap' on palkan h‰n,
+Chimenelle ma h‰net itse esit‰n,
+t‰‰ ett‰ seppelˆisi h‰net lemmell‰‰n.
+
+CHIMENE.
+Sire, mulle s‰‰d‰ttekˆ kovan k‰skyn t‰‰n?
+
+DON FERNANDO.
+Sa valitat, ei lempes: jos tuo voittaja
+Rodrigo on, se h‰net ottaa riemulla.
+Siks sulok‰skyst‰ni k‰‰nn‰ moittehesi:
+ken heist‰ liekin h‰n, h‰n tulkoon mieheksesi.
+
+
+
+
+VIIDES NƒYT÷S.
+
+
+1:nen kohtaus.
+
+DON RODRIGO. CHIMENE.
+
+CHIMENE.
+Mi rohkeus! Rodrigo! Ilmi p‰iv‰ll‰!
+Pois! Surmaat kunniani! Poistu!
+
+DON RODRIGO.
+                                Viimeist‰
+hyv‰sti‰ni teille saavun sanomaan;
+mun kuolla t‰ytyy, mut en voinut kuollakaan,
+kun ikilempeni, mi minut teihin liitt‰‰,
+mun kauttain viel‰ kerran teit‰ tahtoo kiitt‰‰.
+
+CHIMENE.
+Sun kuolla t‰ytyy?
+
+DON RODRIGO.
+                   Rienn‰n hetkeen autuaasen,
+kun el‰m‰ll‰in ostan teille onnen taasen.
+
+CHIMENE.
+Sun kuolla? Niinkˆ on Don Sancho voimallinen,
+h‰nt' ett‰ voitokkaan on sunkin pelk‰‰minen?
+Ken niin sun heikensi, h‰n kuink' on vahva niin,
+kun taistelotta k‰yt jo kuolon mietelmiin?
+H‰n, joka maurit mursi, tappoi taattoni,
+Don Sanchon vuoksko ep‰toivoon lankesi?
+Siis tarvittaissa sulta puuttuu miehuutta!
+
+DON RODRIGO.
+K‰yn kohti rangaistustani, en taistoa;
+t‰‰ lempi uskollinen puoltamasta ep‰‰
+eloa mun, min vuoks te kostost' ette lep‰‰.
+Uljuutein sama on! Mut mull' ei voimaa mit‰‰n,
+kun teille kiusallista puolustaa mun pit‰‰;
+jo t‰n‰ yˆn‰ kuollut oisin kalvan kautta,
+jos oisin taistellut vain oman kiistan tautta,
+mut pett‰nyt, kun maata, kuningasta puolsin,
+ne oisin, huonosti jos itse‰in ma huolsin.
+Eloa niin ei vihaa ylv‰s mieleni,
+siit' ett‰ eroaisin niinkuin petturi!
+Nyt kun vain minusta on kysymys, kun te
+vaaditte kuoloain, on teille suotu se.
+K‰tenne kautta kuolla ansainnut ma en,
+te toisen valitsitte tuohon toimehen;
+en torju iskujansa, miest‰ kunnioitan,
+mi sotii puolestanne: ajatella koitan
+ilolla, ett‰ teilt‰ tulee iskut nuo,
+kun teid‰n kunniaanne puoltaa k‰si tuo;
+poveni paljastan ma sille mielell‰in
+k‰tenne murhaavaisen haavat saaden n‰in.
+
+CHIMENE.
+Velvoitus tumma, tuima, joka ajaa mua
+uhalla itseni n‰in vainoamaan sua,
+jos lemmelles niin kovan laatii taistolain,
+ett' antaut valtaan sen, ken mua puoltaa vain,
+tuo sokeus ‰lkˆˆn viekˆ sulta muistoasi:
+elostas vain ei taistella, myˆs maineestasi!
+Elosi kuinka kuulu ollut lie, kun kuullaan
+Rodrigo kuolleheks, h‰n voitetuksi luullaan.
+Lien kallis sulle, mutta maine kalliimpi,
+kun vereen taattoni se kastoi k‰tesi,
+kun lemmentoivostas se sai sun luopumaan
+omata armaanasi mua milloinkaan.
+Niin v‰h‰n siit‰ siiskˆ nyt on huolta sulla,
+ett' taistelotta tahdot voitetuksi tulla?
+Mi kumma heikkous sun kuntos kaiken vei?
+Miks oli sulla se? Miks ole en‰‰ ei?
+Kuin? Uljas olitko vain loukatakses mua?
+Jos mua et loukkaa, pelko kalventaako sua?
+Tapoitko taattoni vain, ett‰ j‰lkeen voittos
+tarita voittajalle voisit mainekoittos?
+Mun kostaa salli siis sa tahtomatta kuolla,
+ja jos et el‰‰ tahdo, kunniaasi puolla!
+
+DON RODRIGO.
+Ma kreivin surmasin, ma maurit ajoin pois;
+tyˆ mik‰ kunniaani lis‰n en‰‰ tois?
+Ei vuoksi maineeni mun tarvis puolustauta;
+jo tiedet‰‰n, mun mit‰ mahtaa kylkirauta,
+ma ett‰ kaikki voin ja ett‰ taivaan alla
+mun eess‰in vertaista ei ole kunnialla.
+Mit' uskotattekin, t‰‰ taisto voi mun kaata,
+en silti kunniaani kadottaa ma saata,
+ep‰ill‰ kukaan ei mun tohdi uljuuttani,
+ei voitetuks, ei ett‰ lˆysin voittajani.
+Vain virkkavat: "Chimene‰ h‰n lempi, t‰‰n
+vuoks vihan tahtonut ei j‰‰d‰ el‰m‰‰n,
+h‰n taipui kohtalohon kovaan, armahansa
+mi ajoi etsim‰h‰n h‰nen kuoloansa.
+Pyys impi p‰‰t‰ h‰nen, rikkovansa luullut
+h‰n ois, jos pyyntˆ‰ h‰n sit' ei oisi kuullut.
+Kun vaati kunnia, h‰n multaan lemmen peitti,
+kun vaati lemmitty, h‰n el‰m‰ns‰ heitti;
+kalliimpi el‰m‰‰ ol' h‰lle armas impi,
+mut armastaankin viel‰ maine kallihimpi."
+Siis n‰‰tte, joskin taistoon t‰h‰n sortunen,
+siit' tummu ei, vaan seestyy loisto mainehen,
+vapaata kuoloain se seuraa kuuluttain:
+t‰‰n uhrin teille tuoda min‰ saatoin vain.
+
+CHIMENE.
+Kun kuule ‰‰nt‰ et sa elon, kunnian,
+vaan tahdot syˆst‰ tielle kuolon vapahan,
+jos koskaan rakastin, Rodrigo armas, sua,
+Don Sanchost' auta minut ynn‰ puolla mua,
+vapauta valastain nyt minut taistellen,
+ma etten valtaan joudu vastenmielisen!
+Enemm‰n virkanko? Pois, puolustaumaan rienn‰,
+vait ett‰ oisin, etten velvoitustani lienn‰,
+mut jos ei syd‰mesi mulle kylm‰ jo,
+tuo taisto voita, jonka olen palkinto.
+Hyv‰sti! Punastun ma sanomaani sanaa.
+
+DON RODRIGO (yksin.)
+Miss' on nyt vihamies, mi taisteloon mun manaa?
+Nyt kaikk' Kastilia, Navarra nouskohon,
+maat maurein, urhot, mit‰ Espanjassa on,
+te yhteen tulkaa, armeijaksi liittyk‰‰
+mua vastaan, jonka tulta lietsoo liekki t‰‰:
+kaikille voimillenne sulotoivoni
+on liian vankka, ett‰ niist‰ murtuisi.
+
+
+2:nen kohtaus.
+
+PRINSESSA.
+Sua viel‰ kuulisinko, rotutunne jalo,
+        mi syyt‰t syd‰nlempe‰in?
+Sua kuulisinko, lempi, jonka vieno valo
+tuon hirmuvaltaa vastaan minut nostaa n‰in?
+        Prinsessa parka! Kumpaa p‰in
+        mun kulkee poven parhain palo?
+Rodrigo, urhoudellas minut ansaitset,
+mut urho vaikka oot, laps kuninkaan sa et.
+
+Ah, kova kohtalo, mi mursit irti multa
+        maineen ja lemmen toisistaan!
+Miks maksaa lemmellein niin suurta tuskan tulta,
+t‰‰ vaali, varmaan joka sattui jaloimpaan?
+        Ah, syd‰n, kuinka huokaatkaan,
+        kuin paljon vaatii taivas sulta,
+jos pitk‰n onnistu ei vaivas viihdytt‰‰
+sun lempe‰s, ei tunnustaa myˆs lempiv‰‰!
+
+Mut liiaks ep‰ilen ja kiusaan j‰rke‰ni,
+kun valintaani halveksun;
+vaikk' yksin kuninkaille kuulun synnylt‰ni,
+Rodrigon kanssa kunnia on el‰‰ mun.
+Puuttuisko kruunu p‰‰st‰ sun?
+Kaks kuningasta lempij‰ni
+kun lˆi, h‰n voitostaan Cid-nimen suuren sai.
+Mun valtiaani! sit‰ merkitsee se kai.
+
+H‰n on mun arvoisein, mut on Chimenen; turma
+        tuon lahjan sai mun antamaan!
+Erottanut ei heit‰ edes taaton surma,
+ei verivelka saanut kaunaa kantamaan.
+        Mua souda lemmen rantamaan
+        siis rikos ei, ei tuska, hurma;
+mua rangaistakseen s‰‰t‰nyt on sallimus,
+vihankin yli ett‰ ylt‰‰ rakkaus.
+
+
+3:s kohtaus.
+
+PRINSESSA. LEONORA.
+
+PRINSESSA.
+Leonora? Mit‰ tahdot?
+
+LEONORA.
+                      Onnittelemaan
+ma saavun syd‰nt‰nne vihdoin levostaan.
+
+PRINSESSA.
+T‰‰ lepo mist‰ tulis tuskahan ja huoleen?
+
+LEONORA.
+Jos lempi toivost' el‰‰ ja sen kanssa kuolee,
+Rodrigon pauloista jo pyytehenne p‰‰si.
+Tied‰tte taiston, min Chimene h‰lle s‰‰si:
+kun siihen sortuu h‰n tai saa Chimenen, varmaan
+on kuollut toivonne, poiss' aika tuskan armaan.
+
+PRINSESSA.
+Ah, viel' ei riit‰ se!
+
+LEONORA.
+                      Mi toivo teille j‰isi?
+
+PRINSESSA.
+Pikemmin: mik‰ toivo multa kiellett‰isi?
+Jos n‰ill‰ ehdoin k‰y Rodrigo taistohon,
+ne tyhj‰ks tehd‰ mulla monta juonta on.
+Suloinen rakkaus, tuo tuskan julman tuoja,
+on lempiville monen viekkaan eljen luoja.
+
+LEONORA.
+Te mit‰ voisitte, kun taaton kuolema
+ei voinut sytt‰‰ heille ristiriitoja?
+Chimene k‰ytˆksell‰‰n selv‰‰n osoittaa,
+h‰nt' ettei viha en‰‰ vainoamaan saa;
+h‰n pyyt‰‰ taistoa ja taistelijakseen
+ens tarjokkaan h‰n ottaa heti kostolleen;
+vetoa ei h‰n k‰siin, joille kunniata
+ja kokemust' on koonnut sankartyˆt‰ sata;
+Don Sancho riitt‰‰ h‰lle, vaalin ansaitsee,
+kun ensi kerran nyt h‰n miekkaa mittelee;
+tuo etu h‰lle juuri taiston onnen tuottaa,
+maineeton on h‰n, siks Chimene h‰neen luottaa;
+noin nopsa vaali todistaa, ett' etsii h‰n
+taistosta velvoitusta lemmen leppyv‰n
+ja toivoo, ett‰ helppo ois Rodrigon voitto
+ja h‰lle koituis siit‰ onnen uuden koitto.
+
+PRINSESSA.
+Sen hyvin huomaan, tohdin sent‰‰n rakastaa
+Chimenen uhallai ma tuota voittajaa.
+Mut mit‰ p‰‰tt‰isin, ma kurja lempiv‰inen?
+
+LEONORA.
+Ois teid‰n muistettava arvo synnynn‰inen.
+Kuningas teille sopii, alamainen ei!
+
+PRINSESSA.
+Tuon syyn jo vaihdos lemmen-esineeni vei.
+Rakkaani ei Rodrigo, ritar' halpa tuo,
+ei, h‰lle rakkautein jo nimen toisen suo;
+h‰ness‰ kuntoa nyt lemmin kuuluisaa,
+Cid-sankaria, valtiasten voittajaa.
+Tok' kalliin itseni, en vuoksi ihmisten,
+vaan ettei tummuis tuli kauniin rakkauden,
+ja vaikka kuuluis h‰lle joskus kruunu maani,
+en ota lahjaa j‰lleen kerran antamaani.
+Tuo taisto helppo kun on k‰yd‰ voittoherran,
+Chimenelle ma h‰net annan viel‰ kerran.
+Sa, joka n‰hnyt olet haavat syd‰mein,
+mua auta p‰‰tt‰m‰‰n, min otin tehd‰ksein.
+
+
+4:s kohtaus.
+
+CHIMENE. ELVIRA.
+
+CHIMENE.
+Elvira, kuinka k‰rsin! Kuinka oon ma kurja!
+Mun tulis toivoa, mun valtaa pelko hurja!
+En tohdi toivoa ma, mik‰ miellytt‰is,
+en odottaa, jost' ei jo katumusta j‰is.
+Kaks kilpakosijaani miekoin asestin,
+mut itken, taistelo tuo kuinka p‰‰ttyykin;
+suotuisa kuinka liekin arpa kohtalon,
+armaani kuollut on tai taatto kostoton.
+
+ELVIRA.
+Kuin k‰yneekin, se teille tuopi lohdun armaan:
+Rodrigon saatte taikka taaton koston varmaan;
+kuin teille langenneekin arpa kohtalon,
+se turvaa kunnian ja antaa puolison.
+
+CHIMENE.
+Kuin? Miehen, jota vihaan taikka inhoan?
+Rodrigon murhaajan tai taaton surmaajan!
+Kuin k‰yneekin, mun pakko miest' on rakastaa
+mi viel‰ verta vuotaa mulle kalleimpaa;
+kuin k‰yneekin, t‰‰ mieli niinkuin myrsky l‰ikkyy
+t‰‰n taiston p‰‰tˆst‰ kuin kuolemaa se s‰ikkyy.
+Pois, kosto, lempi, jotka multa j‰rjen viette!
+Te liian kalliit mulle sill‰ hinnall' liette.
+Sa korkein vyˆrytt‰j‰ kohtalon, mi mua
+n‰in iskee, p‰‰t‰ taisto -- pyyd‰n sua --
+niin ettei voita heist‰ kumpikaan, ei lankee!
+
+ELVIRA.
+Se oisi osa teille liian tuima, ankee.
+T‰‰ taisto sielullenne uus on rangaistus,
+jos siit' ei kostollenne koita oikeus,
+jaloa vihaanne jos pakko todistaa
+on teid‰n etsein yh‰ armaan kuolemaa.
+Parempi on, jos voiton seppel otsallansa
+h‰n teid‰t vaientaa suur-valtaisuudessansa
+ja ett‰ taiston laki huokauksenne h‰‰t‰‰,
+kuningas miehen teille lemmityn kun s‰‰t‰‰.
+
+CHIMENE.
+Luuletko, jos h‰n voittaa, ett‰ antaudun?
+Suur' on mun hukkani kuin velvoituskin mun;
+ei riit‰ m‰‰r‰‰ niiden mulle mittaamaan
+lait kaksintaiston eik‰ tahto kuninkaan.
+H‰n voittaa voi Don Sanchon ehk‰ helpolla,
+mut h‰nen kanssaan ei Chimenen mainetta;
+kuningas luvannut mit' onkin sankarille,
+ma uutta vihollista sata hankin sille.
+
+ELVIRA.
+Te varokaa! Tuon vuoksi ylpeytenne vaan
+voi taivas suoda, ett‰ teid‰t kostetaan.
+Kuin? Viel‰ tahdotteko onnen torjua
+sen, ett‰ kunnianne sallii vaieta?
+Siis mit‰ vaatii, toivoo velvoitus tuo pyh‰?
+Armaanko kuollen teill' ois taatto eloss' yh‰?
+Yks eikˆ riit‰ teille isku kohtalon?
+Tuskaako tuskan p‰‰lle teille tarpeen on?
+Ei, armasta, mi teille m‰‰r‰t‰‰n, te ette
+ansaitse, koska yh‰ suotta oikkuilette;
+vanhurskas taivas viel‰ teille, n‰‰tte sen,
+Don Sanchon mieheks suo Rodrigon surmaten.
+
+CHIMENE.
+Elvira, kyllin raskas eikˆ tuska t‰‰,
+sit' ett‰ entein synkin tahdot synkist‰‰?
+Jos voin, ma v‰ltt‰‰ tahdon heit‰ molempia;
+jos en, Rodrigon vuoks jo luen rukouksia,
+en siks, mua ett‰ h‰neen kiihko kiinnitt‰is,
+vaan etten voittoisan Don Sanchon omaks j‰is.
+Tuo kammo luonut minuun toivon t‰‰n on nyt.
+Mua kurjaa! Mit‰ n‰‰n? Siis kaikki p‰‰ttynyt!
+
+
+5:s kohtaus.
+
+DON SANCHO. CHIMENE. ELVIRA.
+
+DON SANCHO.
+T‰‰ kalpa kantaa pakko juureen jalkainne...
+
+CHIMENE.
+Kuin? Hurmetta Rodrigon viel‰ huuruu se!
+Katala, silmihini kuinka tulla tohdit,
+kun multa kallehimman tuonen teille johdit?
+Leimahda, lempeni, nyt s‰ikkymist' ei sulla,
+on taatto kostettu, on vapaa valta mulla,
+yks isku kunniani s‰‰sti, sieluuni
+toi ep‰toivon, mutta lemmen vapautti!
+
+DON SANCHO.
+Te tyyntyen...
+
+CHIMENE.
+               Kuin mulle haastaa tohditkin
+murhaaja halpa urhon, jota ihailin!
+Vilpill‰ voitit h‰net! Moinen milloinkaan
+mies saanut sankaria ei ois kaatumaan.
+Mult' ‰l‰ toivo mit‰‰n, mua et palvellut!
+Mun luulit kostavasi, oot mun surmannut.
+
+DON SANCHO.
+Mik' outo mielikuva, kuulematta multa...
+
+CHIMENE.
+Kerskausta kuolemansa kuulisinko sulta,
+pysyisin tyynn‰, kun sa kiitt‰in kunniaasi
+kuvaisit rikostain ja turmaa tuottamaasi.
+
+
+6:s kohtaus.
+
+DON FERNANDO. DON DIEGO. DON ARIAS.
+DON SANCHO. DON ALFONSO. CHIMENE.
+ELVIRA.
+
+CHIMENE.
+Sire, en‰‰ teeskentely t‰‰ ei tarpehen;
+salata voimin kaikin teilt‰ voinut en:
+rakastin h‰nt‰. Mutta is‰‰ kostaakseni
+p‰‰t' armaan vaatein annoin rakkauteni,
+ja Majesteettinne on itse n‰hd‰ voinut,
+minulle velvoituksen kuink' on k‰sky soinut.
+Nyt on Rodrigo kuollut, viha viihtynyt,
+ma olen morsian vain murehtiva nyt.
+T‰‰ kosto kuului sille, jolta elon sain,
+n‰‰ iskut muistelolle oman armahain.
+Don Sancho tappion toi mulle puoltain mua,
+k‰svartta palkita ma tahdon voitettua!
+Sire, kuningasta jos voi s‰‰li liikuttaa,
+ma pyyd‰n, k‰skynne tuo kova purkakaa;
+palkaksi voiton, jossa multa armas meni,
+suon omaisuuteni, jos j‰‰n ma itselleni;
+pyh‰ss‰ luostarissa surra halajan
+yˆt p‰iv‰t surmaa taaton ynn‰ armahan.
+
+DON DIEGO.
+H‰n lempii, Sire, ja tohtii tunnustaa nyt julki,
+milt' ennen rikoksena tarkoin suunsa sulki.
+
+DON FERNANDO.
+Chimene, harhas heit‰, el‰‰ armahasi,
+Don Sancho voitettu vei v‰‰r‰‰n tajuntasi.
+
+DON SANCHO.
+En min‰, kiihko liika h‰net petti vaan;
+Sire, taistelosta saavuin h‰lle kertomaan
+"Tyyn' ollos", lausui mulle jalo sankari,
+ihanne immen tuon, kun pois lˆi miekkani,
+"ma ep‰varmaks j‰t‰n voiton ennemmin
+kuin verta vuodatan Chimenen ritarin;
+mut koska menn‰ t‰ytyy mun luo kuninkaan,
+sa h‰lle taistostamme k‰yˆs kertomaan
+ja voittajalta h‰lle t‰m‰ miekkas vie."
+Niin saavuin; miekka h‰net harhaan saanut lie,
+mun luullen voittaneen, mun n‰hden palaavan,
+leimautti lempens‰ h‰n julki raivoisan,
+ei h‰nt‰ hillit‰, ei est‰‰ voinut mik‰‰n,
+en sananvaltaa h‰lt‰ saanut hetkeksik‰‰n.
+Ma, vaikka voitettukin, olen onnellinen:
+mun suurta lempe‰in jos onkin sureminen,
+jos paljon kadotankin, teen sen mielell‰in,
+kun onneks lemmen on se pyh‰n, kauniin n‰in.
+
+DON FERNANDO.
+Mun tytt‰rein, ei tarvis posken punastua
+niin puhtaan lemmen vuoks, mi ujostuttaa sua,
+se turhaa on kuin kokeet kielt‰‰ lempe‰si:
+on pesty kunnias, oot tehnyt teht‰v‰si,
+on taattos kostettu jo kyllin, kun sen tautta
+Rodrigos k‰yd‰ sai niin monen vaaran kautta.
+N‰et, ett‰ toisin taivas tahtoi. Tehty‰si
+niin paljon taattos vuoks, on vuoro itsell‰si,
+sa ‰llˆs k‰sky‰ni vastaan kapinoi,
+mi sulle puolison niin rakkaan, armaan toi.
+
+
+7:s kohtaus.
+
+DON FERNANDO. DON DIEGO. DON ARIAS.
+DON RODRIGO. DON ALFONSO. DON SANCHO.
+PRINSESSA. CHIMENE. LEONORA. ELVIRA.
+
+PRINSESSA.
+Chimene, kyyneleesi kuivaa, voittaja
+t‰‰ jalo vastaan ota multa riemulla!
+
+DON RODRIGO.
+Sire, suvaitkaa, vuoks ett‰ kunnioittavaisen
+rakkauden polvistun ma eteen t‰m‰n naisen.
+En t‰nne saalistani saavu pyyt‰m‰‰n;
+tarita uudelleen ma tahdon p‰‰ni t‰‰n,
+Chimene: lempeni ei vetoo ollenkaan
+lakihin taiston eik‰ tahtoon valtiaan.
+Mut liian v‰h‰n jos t‰‰ kaikk' on eest‰ is‰n,
+ma kuinka tuoda voin tuon korvauksen lis‰n?
+Mun taistellako t‰ytyy vastaan tuhansia,
+maailman ‰‰rist' tuoda voiton sanomia,
+sotia yksin sodat, lyˆd‰ armeijat,
+tarujen sankarien riist‰‰ kunniat?
+Jos tuolla rikokseni vihdoin sovitan,
+ma kaikki voin ja teen ja kaikki uskallan!
+Mut loukattu jos ei tuo lepy kunnia
+ylev‰, tarpeen jos on syyp‰‰n kuolema,
+mua vastaan ihmisvoimaa ‰lk‰‰ asestako:
+te itse kostakaa, mun mieless‰in ei pako.
+Vain teill‰ oikeus on voittaa voittamaton,
+muut sit' ei voi; vain teille tarjoon p‰‰ni paton.
+Mun rangaistuksekseni toki kuolo riitt‰‰;
+mut muisteloonne minut suvaitkaatte liitt‰‰
+ja koska kunnianne s‰ilyt‰n ma kuollen,
+te palkaks muistoani hellik‰‰tte huollen,
+ja joskus virkkakaa mun s‰‰lein osaani:
+"Mua jos ei lempinyt h‰n ois, h‰n el‰isi."
+
+CHIMENE.
+Rodrigo, nouse! Sire, mun t‰ytyy tunnustaa
+sanoja virkoin, joita takaisin en saa.
+Hyveit‰ h‰ll‰ on, joit' en voi vihata,
+ja kuningas kun k‰skee, t‰ytyy totella.
+Mun mihin tuominnette, toki tahdon tiet‰‰,
+t‰‰n liiton voitteko te silmiss‰nne siet‰‰?
+Mut vaatimuksenne on mulle velvoitus;
+niin onko syd‰menne jyrkin oikeus?
+Jos kallis valtiolle on Rodrigon henki,
+jos teille tarpehen, voin olla hinta senki
+ja ottaa itsellein tuon ikisoiman vastuun,
+k‰teni ett‰ taaton hurmehesta kastuu!
+
+DON FERNANDO.
+On aika sovittanut paljon sellaista,
+mi usein rikokselta n‰ytti alussa.
+Rodrigo voitti sun, sa h‰lle kuulut vaan.
+Mut vaikka valtas sun h‰n t‰n‰‰n voitollaan,
+mun t‰ytyis mainehesi vihamiesi olla
+n‰in heti kruunataksein h‰nt‰ palkinnolla.
+N‰‰ h‰‰t jos lyk‰t‰‰n, ei siin‰ mit‰‰n v‰‰r‰‰;
+sun lempes m‰‰r‰ttiin, mut ilman ajan m‰‰r‰‰.
+Vuos ota hiljaa surrakses, jos tahdot niin;
+Rodrigo sill‰ aikaa astuu aseisiin.
+Kun maurit maastamme h‰n lˆi niin verisesti,
+karkoitti kauas heid‰t, tuhon tuumat esti,
+h‰n p‰‰n‰ armeijani viekˆˆn soihdut sodan
+nyt heid‰n maahansa ja miekan, murhan odan.
+Heill' olkoon kauhunaan vain Cid! Jo herra oot;
+he kuninkaaksensa sua toisti kutsukoot.
+Mut tˆiss‰ urhon ollos h‰lle uskollinen,
+h‰nt' enemp' ansaiten sun onkin palaaminen
+ja sankaruudellasi maine moinen hanki
+h‰‰t ett‰ kanssasi on h‰it‰ kunnianki.
+
+DON RODRIGO.
+Chimenen saadaksein ja palvellaksein teit‰,
+mit' ei t‰‰ k‰si voi? Jos voiton seppeleit‰
+t‰ytyykin poimia mun h‰nen luotaan poissa,
+kun tohdin toivoa, oon onnen kammioissa.
+
+DON FERNANDO.
+Sa luota miehuutees ja lupaukseeni varmaan.
+Mut koska hallitset jo mielt‰ immen armaan,
+tuo seikka kunnian, mi mietitytt‰‰ t‰t‰,
+ajalle, uljuudelles, kuninkaalles j‰t‰!
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Cid, by Pierre Corneille
+
+*** END OF THIS PROJECT GUTENBERG EBOOK CID ***
+
+***** This file should be named 48667-8.txt or 48667-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/8/6/6/48667/
+
+Produced by Juha Kiuru
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
