@@ -1,0 +1,42 @@
+_repo: Cid-5-naytoksinen-naytelma_48667
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Sepeteus, Kanttori
+    - Vilkastus, Mikko
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Einar Leopold
+    - Lonnbohm, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+description: ''
+gutenberg_issued: '2015-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48667'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Cid, approximately 1043-1099 -- Drama'
+title: 'Cid: 5-näytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/48667
