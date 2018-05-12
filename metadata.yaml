@@ -1,4 +1,5 @@
 _repo: Cid-5-naytoksinen-naytelma_48667
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Leino, Eino
@@ -16,6 +17,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Eino_Leino
     - http://fi.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Corneille, Pierre
@@ -27,6 +31,8 @@ creator:
     - http://en.wikipedia.org/wiki/Pierre_Corneille
     - http://fr.wikipedia.org/wiki/Pierre_Corneille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48667#Cid-5-naytoksinen-naytelma
 gutenberg_issued: '2015-04-08'
 gutenberg_type: Text
 identifiers:
